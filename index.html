@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ETF Data Explorer</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; margin: 20px; background-color: #f8f9fa; }
+        h1 { color: #333; }
+        .controls { background: white; padding: 15px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-bottom: 20px; }
+        .control-group { margin-bottom: 15px; }
+        .control-group label { font-weight: bold; display: block; margin-bottom: 5px; }
+        
+        /* Column Selectors */
+        .column-toggles { display: flex; flex-wrap: wrap; gap: 10px; }
+        .toggle-item { background: #eee; padding: 5px 10px; border-radius: 4px; cursor: pointer; font-size: 0.9em; border: 1px solid #ccc; }
+        .toggle-item.active { background: #007bff; color: white; border-color: #0056b3; }
+        
+        /* Table Styles */
+        .table-container { overflow-x: auto; background: white; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        table { width: 100%; border-collapse: collapse; min-width: 800px; }
+        th, td { padding: 12px 15px; text-align: left; border-bottom: 1px solid #ddd; }
+        th { background-color: #f1f1f1; cursor: pointer; position: sticky; top: 0; white-space: nowrap; }
+        th:hover { background-color: #e2e2e2; }
+        th.sort-asc::after { content: " ▲"; font-size: 0.8em; }
+        th.sort-desc::after { content: " ▼"; font-size: 0.8em; }
+        tr:hover { background-color: #f9f9f9; }
+        
+        .loading { text-align: center; padding: 50px; font-size: 1.2em; color: #666; }
+    </style>
+</head>
+<body>
+
+    <h1>ETF Data Explorer</h1>
+
+    <div class="controls">
+        <div class="control-group">
+            <label>Show/Hide Columns:</label>
+            <div id="columnToggles" class="column-toggles"></div>
+        </div>
+
+        <div class="control-group">
+            <label for="sortSelect">Sort By:</label>
+            <select id="sortSelect" onchange="handleSortChange(this.value)">
+                <option value="">-- Select Column --</option>
+            </select>
+            <button onclick="toggleSortDirection()">Change Direction</button>
+        </div>
+    </div>
+
+    <div class="table-container">
+        <div id="loading" class="loading">Loading data from etf_data.csv...</div>
+        <table id="etfTable" style="display:none;">
+            <thead id="tableHead"></thead>
+            <tbody id="tableBody"></tbody>
+        </table>
+    </div>
+
+    <script>
+        let allData = [];
+        let headers = [];
+        let visibleColumns = new Set();
+        let currentSort = { column: '', direction: 'asc' };
+
+        // 1. Fetch and Parse CSV
+        Papa.parse("etf_data.csv", {
+            download: true,
+            header: true,
+            dynamicTyping: true,
+            complete: function(results) {
+                allData = results.data.filter(row => row.Ticker); // Filter empty rows
+                headers = results.meta.fields;
+                
+                // Initialize visibility: show all by default
+                headers.forEach(h => visibleColumns.add(h));
+                
+                initUI();
+                renderTable();
+                
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('etfTable').style.display = 'table';
+            },
+            error: function(err) {
+                document.getElementById('loading').innerText = "Error loading CSV. Make sure etf_data.csv is in the same folder.";
+                console.error(err);
+            }
+        });
+
+        function initUI() {
+            const toggleContainer = document.getElementById('columnToggles');
+            const sortSelect = document.getElementById('sortSelect');
+
+            headers.forEach(header => {
+                // Create checkboxes/toggles
+                const span = document.createElement('span');
+                span.className = 'toggle-item active';
+                span.innerText = header;
+                span.onclick = () => toggleColumn(header, span);
+                toggleContainer.appendChild(span);
+
+                // Populate sort dropdown
+                const opt = document.createElement('option');
+                opt.value = header;
+                opt.innerText = header;
+                sortSelect.appendChild(opt);
+            });
+        }
+
+        function toggleColumn(header, element) {
+            if (visibleColumns.has(header)) {
+                visibleColumns.delete(header);
+                element.classList.remove('active');
+            } else {
+                visibleColumns.add(header);
+                element.classList.add('active');
+            }
+            renderTable();
+        }
+
+        function handleSortChange(column) {
+            currentSort.column = column;
+            sortData();
+        }
+
+        function toggleSortDirection() {
+            currentSort.direction = currentSort.direction === 'asc' ? 'desc' : 'asc';
+            sortData();
+        }
+
+        function sortData() {
+            if (!currentSort.column) return;
+
+            allData.sort((a, b) => {
+                let valA = a[currentSort.column];
+                let valB = b[currentSort.column];
+
+                // Handle Nulls
+                if (valA == null) return 1;
+                if (valB == null) return -1;
+
+                if (typeof valA === 'string') {
+                    return currentSort.direction === 'asc' 
+                        ? valA.localeCompare(valB) 
+                        : valB.localeCompare(valA);
+                } else {
+                    return currentSort.direction === 'asc' 
+                        ? valA - valB 
+                        : valB - valA;
+                }
+            });
+            renderTable();
+        }
+
+        function renderTable() {
+            const head = document.getElementById('tableHead');
+            const body = document.getElementById('tableBody');
+            
+            // Clear current table
+            head.innerHTML = "";
+            body.innerHTML = "";
+
+            // Create Header Row
+            const trHead = document.createElement('tr');
+            headers.forEach(h => {
+                if (visibleColumns.has(h)) {
+                    const th = document.createElement('th');
+                    th.innerText = h;
+                    if (currentSort.column === h) {
+                        th.className = currentSort.direction === 'asc' ? 'sort-asc' : 'sort-desc';
+                    }
+                    th.onclick = () => {
+                        if (currentSort.column === h) {
+                            toggleSortDirection();
+                        } else {
+                            handleSortChange(h);
+                        }
+                    };
+                    trHead.appendChild(th);
+                }
+            });
+            head.appendChild(trHead);
+
+            // Create Data Rows
+            allData.forEach(row => {
+                const tr = document.createElement('tr');
+                headers.forEach(h => {
+                    if (visibleColumns.has(h)) {
+                        const td = document.createElement('td');
+                        td.innerText = row[h] === null ? '-' : row[h];
+                        tr.appendChild(td);
+                    }
+                });
+                body.appendChild(tr);
+            });
+        }
+    </script>
+</body>
+</html>
