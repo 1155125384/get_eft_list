@@ -1,26 +1,26 @@
-name: Hourly Notebook Run
-on:
-  schedule:
-    - cron: '0 * * * *' # Every hour
-  workflow_dispatch: # This allows you to click a button to test it manually!
+# name: Hourly Notebook Run
+# on:
+#   schedule:
+#     - cron: '0 * * * *' # Every hour
+#   workflow_dispatch: # This allows you to click a button to test it manually!
 
-jobs:
-  run_notebook:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v4 # Updated to v4 for latest security
+# jobs:
+#   run_notebook:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Checkout code
+#         uses: actions/checkout@v4 # Updated to v4 for latest security
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11' # Use a stable version
+#       - name: Set up Python
+#         uses: actions/setup-python@v5
+#         with:
+#           python-version: '3.11' # Use a stable version
 
-      - name: Install Dependencies
-        run: |
-          pip install jupyter papermill ipykernel mstarpy yfinance tqdm 
+#       - name: Install Dependencies
+#         run: |
+#           pip install jupyter papermill ipykernel mstarpy yfinance tqdm 
 
-      - name: Execute Notebook
-        run: |
-          # Syntax: papermill [input] [output]
-          papermill gen_etf_list.ipynb output_gen_etf_list.ipynb
+#       - name: Execute Notebook
+#         run: |
+#           # Syntax: papermill [input] [output]
+#           papermill gen_etf_list.ipynb output_gen_etf_list.ipynb
