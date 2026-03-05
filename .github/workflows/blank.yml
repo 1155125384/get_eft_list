@@ -12,12 +12,14 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9'
+          python-version: '3.14'
 
       - name: Install Dependencies
         run: |
-          pip install jupyter papermill ipykernel
-          pip install -r requirements.txt  # If you have other libraries
+          pip3 install jupyter papermill ipykernel
+          pip3 install mstarpy
+          pip3 install yfinance
+          pip3 install tqdm 
 
       - name: Execute Notebook
         run: |
@@ -25,8 +27,6 @@ jobs:
 
       - name: Commit and Push Output (Optional)
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add output.ipynb
+          git add gen_etf_list.ipynb
           git commit -m "Hourly notebook update"
           git push
