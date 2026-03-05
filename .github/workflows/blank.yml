@@ -1,0 +1,32 @@
+name: Hourly Notebook Run
+on:
+  schedule:
+    - cron: '0 * * * *' # Every hour
+jobs:
+  run_notebook:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install Dependencies
+        run: |
+          pip install jupyter papermill ipykernel
+          pip install -r requirements.txt  # If you have other libraries
+
+      - name: Execute Notebook
+        run: |
+          papermill analysis.ipynb output.ipynb
+
+      - name: Commit and Push Output (Optional)
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add output.ipynb
+          git commit -m "Hourly notebook update"
+          git push
