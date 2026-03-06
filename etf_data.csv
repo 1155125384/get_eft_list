@@ -1,381 +1,385 @@
 Issuer,Ticker,Name,Stars,Risk,Medal,ESG Globes,12h Flow,6h Flow,2h Flow,1h Flow,30m Flow,10m Flow
 Northern Trust,QDEF,FlexShares Quality Dividend Defensive Index Fund,5,Below Average,Gold,5.0,100.0,100.0,100.0,100.0,100.0,100.0
-Nuveen,NMI,Nuveen Municipal Income,5,Below Average,,,100.0,100.0,100.0,100.0,100.0,100.0
+ALPS,MNBD,ALPS Intermediate Municipal Bond ETF,5,Below Average,Neutral,,100.0,100.0,100.0,100.0,100.0,100.0
 ProShares,TDV,ProShares S&P Technology Dividend Aristocrats ETF,4,Low,Neutral,5.0,100.0,100.0,100.0,100.0,100.0,100.0
+First Trust,FPWR,First Trust EIP Power Solutions ETF,4,Low,Neutral,2.0,100.0,100.0,100.0,100.0,100.0,100.0
 Morgan Stanley,ETX,Eaton Vance Municipal Income 2028 Term Trust,4,Low,,,100.0,100.0,100.0,100.0,100.0,100.0
-WisdomTree,WTMF,WisdomTree Managed Futures Strategy Fund,4,Low,,,100.0,100.0,100.0,100.0,100.0,100.0
-Invesco,PBTP,Invesco 0-5 Yr US TIPS ETF,4,Below Average,Bronze,3.0,100.0,100.0,100.0,100.0,100.0,100.0
-Invesco,KBWP,Invesco KBW Property & Casualty Insurance ETF,4,Below Average,Neutral,2.0,100.0,100.0,100.0,100.0,100.0,100.0
-Franklin Templeton,DIEM,Franklin Emerging Market Core Dividend Tilt Index ETF,4,Average,Silver,2.0,100.0,100.0,100.0,100.0,100.0,100.0
-iShares,LQDB,iShares BBB Rated Corporate Bond ETF,4,Average,Bronze,3.0,100.0,100.0,100.0,100.0,100.0,100.0
+iShares,SIZE,iShares MSCI USA Size Factor ETF,4,Below Average,Gold,4.0,100.0,100.0,100.0,100.0,100.0,100.0
+Northern Trust,MBSD,FlexShares Disciplined Duration MBS Index Fund,4,Below Average,,5.0,100.0,100.0,100.0,100.0,100.0,100.0
 iShares,CRBN,iShares Low Carbon Optimized MSCI ACWI ETF,4,Average,Bronze,3.0,100.0,100.0,100.0,100.0,100.0,100.0
 JPMorgan,BBRE,JPMorgan BetaBuilders MSCI U.S. REIT ETF,4,Average,Bronze,3.0,100.0,100.0,100.0,100.0,100.0,100.0
-Franklin Templeton,FTMU,Franklin Municipal Income ETF,4,Average,Neutral,,97.4,97.4,97.4,97.4,97.4,97.4
-SPDR,GAL,State Street® Global Allocation ETF,4,Average,Silver,2.0,97.2,97.2,97.2,97.2,97.2,97.2
-iShares,MEAR,iShares Short Maturity Municipal Bond Active ETF,4,Below Average,Bronze,,97.1,97.1,97.1,97.1,95.8,89.9
-Northern Trust,QLC,FlexShares US Quality Large Cap Index Fund,4,Average,Gold,3.0,94.5,94.5,94.5,94.5,94.5,94.5
-First Trust,FTXH,First Trust Nasdaq Pharmaceuticals ETF,4,Low,Bronze,3.0,93.1,93.1,93.1,93.1,93.1,93.1
-Franklin Templeton,FTSD,Franklin Short Duration U.S. Government ETF,4,Below Average,Neutral,,92.3,92.3,92.3,92.3,92.3,92.3
-JPMorgan,JCPI,JPMorgan Inflation Managed Bond ETF,5,Low,Silver,4.0,91.3,91.3,91.3,91.3,91.3,88.5
-Xtrackers,DEUS,Xtrackers Russell US Multifactor ETF,4,Below Average,Silver,4.0,90.3,90.3,90.3,90.3,90.3,90.3
-Franklin Templeton,FTPA,Franklin Pennsylvania Municipal Income ETF,4,Average,Neutral,,89.9,89.9,89.9,89.9,89.9,89.9
-Xtrackers,DBEU,Xtrackers MSCI Europe Hedged Equity ETF,4,Low,Neutral,3.0,89.8,89.8,89.8,89.8,89.8,89.5
-First Trust,FCA,First Trust China AlphaDEX® Fund,5,Average,Bronze,2.0,89.1,89.1,89.1,89.1,89.1,89.1
-Nuveen,NAN,Nuveen New York Quality Municipal Income Fund,4,Below Average,,,89.0,89.0,89.0,89.0,89.0,11.8
-Franklin Templeton,FTMA,Franklin Massachusetts Municipal Inc ETF,4,Average,Neutral,,88.2,88.2,88.2,88.2,88.2,94.5
-Franklin Templeton,PMO,Putnam Municipal Opportunities Trust,5,Average,,,86.9,86.9,86.9,86.9,86.9,92.0
-iShares,HEZU,iShares Currency Hedged MSCI Eurozone ETF,4,Below Average,Neutral,3.0,86.9,86.9,86.9,86.9,86.9,86.9
-Invesco,PKW,Invesco BuyBack Achievers ETF,5,Average,Neutral,3.0,86.1,86.1,86.1,86.1,86.1,93.3
-SPDR,ROKT,State Street® SPDR® S&P Kensho Final Frontiers ETF,4,Average,Neutral,2.0,84.7,84.7,84.7,84.7,84.7,89.4
-iShares,NEAR,iShares Short Duration Bond Active ETF,4,Low,Gold,,82.1,82.1,82.1,84.9,80.7,94.3
-First Trust,FLN,First Trust Latin America AlphaDEX® Fund,5,Average,Silver,3.0,82.0,82.0,82.0,82.0,82.0,82.0
-Invesco,IIM,Invesco Insured Municipal Income Trust,4,Average,,,81.9,81.9,81.9,81.9,90.3,89.4
-Xtrackers,DBEZ,Xtrackers MSCI Eurozone Hedged Equity ETF,4,Below Average,Neutral,3.0,81.5,81.5,81.5,81.5,81.5,81.5
-Nuveen,NAZ,Nuveen Arizona Quality Municipal Income Fund,4,Low,,,81.4,81.4,81.4,81.4,81.4,83.5
-WisdomTree,USMF,WisdomTree U.S. Multifactor Fund,4,Low,Silver,2.0,81.0,81.0,81.0,81.0,81.0,90.9
-Goldman Sachs,GSUS,Goldman Sachs MarketBeta US Equity ETF,4,Average,Silver,3.0,81.0,81.0,81.0,81.0,81.0,79.5
-JPMorgan,JPUS,JPMorgan Diversified Return U.S. Equity ETF,5,Low,Bronze,3.0,80.8,80.8,80.8,80.8,80.8,85.3
-Invesco,GRPM,Invesco S&P MidCap 400® GARP ETF,4,Average,Silver,3.0,80.5,80.5,80.5,80.5,80.5,80.5
-BlackRock,BLW,BlackRock Limited Duration Income,4,Below Average,,,78.9,78.9,78.9,78.9,78.8,46.9
-Goldman Sachs,GTIP,Goldman Sachs Access Inflation Protected USD Bond ETF,4,Below Average,Silver,3.0,78.7,78.7,78.7,78.7,78.7,78.7
-iShares,HAWX,iShares Currency Hedged MSCI ACWI ex U.S. ETF,5,Low,Bronze,2.0,78.3,78.3,78.3,78.3,78.3,78.3
-First Trust,TDIV,First Trust NASDAQ Technology Dividend Index Fund,4,Low,Silver,4.0,77.8,77.8,77.8,77.8,76.2,91.0
-Defiance,SIXG,Defiance Connective Technologies ETF,4,Average,Bronze,3.0,77.7,77.7,77.7,77.7,77.7,77.7
-VanEck,RTH,VanEck Retail ETF,5,Low,Bronze,4.0,76.9,76.9,76.9,76.9,76.9,70.8
-Goldman Sachs,GSGO,Goldman Sachs Growth Opportunities ETF,4,Average,Neutral,3.0,75.9,75.9,75.9,75.9,75.9,75.9
-iShares,IYG,iShares U.S. Financial Services ETF,4,Average,Neutral,3.0,75.8,75.8,75.8,76.1,71.2,32.5
-Vanguard,VGSH,Vanguard Short-Term Treasury Index Fund ETF Shares,4,Below Average,Gold,3.0,75.4,75.4,77.1,45.8,71.2,38.6
-Invesco,SPVM,Invesco S&P 500 Value with Momentum ETF,5,Average,Silver,3.0,75.2,75.2,75.2,75.2,75.2,75.2
-Vanguard,VONE,Vanguard Russell 1000 Index Fund ETF Shares,4,Average,Silver,3.0,74.6,74.6,74.6,74.6,79.6,67.9
-iShares,EFV,iShares MSCI EAFE Value ETF,4,Average,Gold,2.0,74.3,74.3,69.2,63.8,83.3,91.2
-Vanguard,VFMV,Vanguard U.S. Minimum Volatility ETF ETF Shares,5,Low,Gold,4.0,73.5,73.5,73.5,73.5,73.5,89.6
-JPMorgan,HOLA,JPMorgan International Hedged Equity Laddered Overlay ETF,4,Average,Bronze,4.0,73.3,73.3,73.3,73.3,73.3,69.3
-WisdomTree,EMMF,WisdomTree Emerging Markets Multifactor Fund,4,Low,Bronze,3.0,72.9,72.9,72.9,72.9,72.9,87.3
-iShares,RXI,iShares Global Consumer Discretionary ETF,4,Low,Silver,4.0,72.0,72.0,72.0,72.0,72.0,72.0
-WisdomTree,HEDJ,WisdomTree Europe Hedged Equity Fund,4,Below Average,Neutral,3.0,71.5,71.5,71.5,71.5,71.5,81.0
-JPMorgan,JCPB,JPMorgan Core Plus Bond ETF,4,Average,Gold,3.0,71.2,71.2,71.8,70.9,73.5,75.6
-SPDR,SPIB,State Street® SPDR® Portfolio Intermediate Term Corporate Bond ETF,4,Low,Silver,3.0,71.1,71.1,72.4,75.0,71.5,92.7
-iShares,SYSB,iShares Systematic Bond ETF,4,Below Average,Gold,3.0,70.6,70.6,70.6,70.6,74.2,14.3
-Global X,AUSF,Global X Adaptive U.S. Factor ETF,5,Low,Silver,3.0,70.5,70.5,70.5,70.5,71.2,61.8
-First Trust,FICS,First Trust International Developed Cap Strength ETF,4,Below Average,Neutral,4.0,70.5,70.5,70.5,70.5,70.5,72.4
-iShares,CNYA,iShares MSCI China A ETF,4,Low,Bronze,2.0,69.6,69.6,69.6,69.6,75.3,32.2
-Vanguard,IVOG,Vanguard S&P Mid-Cap 400 Growth Index Fund ETF Shares,4,Average,Silver,2.0,69.6,69.6,69.6,69.6,69.6,82.6
-SPDR,EDIV,State Street® SPDR® S&P Emerging Markets Dividend ETF,5,Below Average,Gold,2.0,69.3,69.3,69.3,73.1,52.4,25.6
-ALPS,REIT,ALPS Active REIT ETF,4,Below Average,Neutral,3.0,69.3,69.3,69.3,69.3,69.3,69.3
-SPDR,STOT,State Street® DoubleLine® Short Duration Total Return Tactical ETF,4,Low,Bronze,,68.8,68.8,68.8,68.8,68.8,91.5
-First Trust,EIPX,FT Energy Income Partners Strategy ETF,5,Low,Neutral,2.0,68.6,68.6,68.6,68.6,68.6,66.7
-iShares,GLOF,iShares Global Equity Factor ETF,4,Average,Gold,2.0,68.4,68.4,68.4,68.4,68.4,98.6
-iShares,AOA,iShares Core 80/20 Aggressive Allocation ETF,4,Below Average,Silver,2.0,68.4,68.4,68.4,63.0,79.8,93.8
-First Trust,RFEM,First Trust RiverFront Dynamic Emerging Markets ETF,4,Average,Neutral,3.0,68.2,68.2,68.2,68.2,68.2,68.2
-Janus Henderson,JAAA,Janus Henderson AAA CLO ETF,4,Below Average,Bronze,,68.0,68.0,74.0,80.8,86.5,49.0
-Invesco,IDMO,Invesco S&P International Developed Momentum ETF,5,Average,Silver,3.0,68.0,68.0,68.0,67.9,66.7,60.3
-iShares,IAGG,iShares Core International Aggregate Bond ETF,4,Below Average,Bronze,3.0,68.0,68.0,68.0,62.7,68.2,65.4
-iShares,IETC,iShares U.S. Tech Independence Focused ETF,4,Average,Gold,3.0,67.8,67.8,67.8,67.8,67.4,46.4
-iShares,IXN,iShares Global Tech ETF,4,Below Average,Bronze,5.0,67.5,67.5,67.5,63.1,70.5,83.8
-Franklin Templeton,DIVI,Franklin International Core Dividend Tilt Index ETF,4,Below Average,Silver,3.0,67.1,67.1,67.1,69.1,76.4,41.0
-Xtrackers,DBEM,Xtrackers MSCI Emerging Markets Hedged Equity ETF,4,Low,Neutral,2.0,66.7,66.7,66.7,66.7,66.7,66.7
-Dimensional,JHMD,John Hancock Multifactor Developed International ETF,4,Below Average,Gold,2.0,66.6,66.6,66.6,66.6,83.2,93.6
-iShares,SMLF,iShares U.S. Small-Cap Equity Factor ETF,5,Average,Gold,4.0,65.8,65.8,65.8,74.0,40.8,37.5
-BlackRock,FDIS,Fidelity MSCI Consumer Discretionary Index ETF,4,Average,Gold,3.0,65.8,65.8,65.8,65.8,73.4,42.4
-SPDR,SPYV,State Street® SPDR® Portfolio S&P 500 Value ETF,4,Average,Silver,4.0,65.1,65.1,69.3,54.4,58.7,73.6
-Invesco,PFM,Invesco Dividend Achievers™ ETF,4,Low,Bronze,4.0,65.1,65.1,65.1,65.1,65.1,80.7
-JPMorgan,JPLD,Jpmorgan Limited Duration Bond ETF,4,Below Average,Gold,,64.3,64.3,64.3,64.3,53.6,92.0
-iShares,IGIB,iShares 5-10 Year Investment Grade Corporate Bond ETF,4,Below Average,Silver,3.0,63.8,63.8,67.2,66.1,65.6,34.3
-Vanguard,VEU,Vanguard FTSE All-World ex-US Index Fund ETF Shares,4,Below Average,Gold,2.0,63.8,63.8,65.9,63.2,55.7,68.6
-PIMCO,MFUS,PIMCO RAFI Dynamic Multi-Factor U.S. Equity ETF,4,Average,Gold,3.0,63.8,63.8,63.8,63.8,63.8,63.8
-First Trust,LGOV,First Trust Long Duration Opportunities ETF,4,Below Average,Neutral,,63.7,63.7,63.7,63.7,62.9,64.6
-WisdomTree,EPS,WisdomTree U.S. LargeCap Fund,5,Average,Gold,4.0,63.5,63.5,63.5,63.5,63.5,59.8
-Vanguard,VGIT,Vanguard Intermediate-Term Treasury Index Fund ETF Shares,4,Below Average,Silver,3.0,63.4,63.4,65.4,69.4,67.5,67.1
-Invesco,IBBQ,Invesco Nasdaq Biotechnology ETF,4,Average,Bronze,2.0,63.1,63.1,63.1,63.1,63.1,78.2
-SPDR,SPYX,State Street® SPDR® S&P® 500 Fossil Fuel Reserves Free ETF,4,Average,Bronze,4.0,62.4,62.4,62.4,62.4,62.4,16.3
-Schwab,HGER,Harbor Commodity All-Weather Strategy ETF,5,Below Average,Neutral,,62.3,62.3,62.3,64.6,70.5,47.0
-Vanguard,VHT,Vanguard Health Care Index Fund ETF Shares,4,Below Average,Bronze,3.0,62.1,62.1,68.4,75.5,85.6,87.5
-SPDR,XLP,State Street® Consumer Staples Select Sector SPDR® ETF,4,Average,Bronze,2.0,62.0,62.0,62.6,65.5,72.9,69.7
-Vanguard,VFMF,Vanguard U.S. Multifactor ETF Shares,5,Average,Gold,3.0,61.9,61.9,61.9,61.9,61.9,74.0
-iShares,GARP,iShares MSCI USA Quality GARP ETF,5,Average,Gold,3.0,61.9,61.9,61.9,61.9,61.0,45.4
-SPDR,KCE,State Street® SPDR® S&P® Capital Markets ETF,5,Average,Neutral,2.0,61.8,61.8,61.8,61.8,61.8,61.8
-Invesco,GSY,Invesco Ultra Short Duration ETF,4,Average,Bronze,3.0,61.7,61.7,61.7,60.7,57.3,59.5
-SPDR,SPTI,State Street® SPDR® Portfolio Intermediate Term Treasury ETF,4,Below Average,Silver,3.0,61.7,61.7,61.7,52.6,31.6,47.5
-American Century,QGRO,American Century U.S. Quality Growth ETF,4,Average,Neutral,3.0,61.6,61.6,61.6,61.6,64.1,72.0
-iShares,DVY,iShares Select Dividend ETF,4,Below Average,Silver,2.0,61.2,61.2,61.2,59.3,66.8,14.7
-Franklin Templeton,PGRO,Putnam Focused Large Cap Growth ETF,4,Average,Neutral,4.0,61.0,61.0,61.0,61.0,61.0,65.0
-iShares,IYK,iShares US Consumer Staples ETF,4,Average,Bronze,2.0,60.6,60.6,62.3,68.7,71.0,46.7
-Nuveen,NUDM,Nuveen ESG International Developed Markets Equity ETF,4,Average,Bronze,4.0,60.6,60.6,60.6,60.6,63.4,90.1
-iShares,STIP,iShares 0-5 Year TIPS Bond ETF,4,Low,Gold,3.0,60.6,60.6,60.1,54.2,76.0,92.0
-VanEck,HAP,VanEck Natural Resources ETF,4,Below Average,Neutral,3.0,60.5,60.5,60.5,60.5,65.7,29.1
-Morgan Stanley,EVMO,Eaton Vance Mortgage Opportunities ETF,4,Average,,,60.3,60.3,60.3,60.3,60.3,52.9
-iShares,IWP,iShares Russell Mid-Cap Growth ETF,4,Average,Bronze,3.0,60.2,60.2,64.7,51.6,61.2,46.1
-PIMCO,LONZ,PIMCO Senior Loan Active Exchange-Traded Fund,4,Average,Neutral,,60.2,60.2,60.2,60.2,60.2,76.5
-Invesco,EQWL,Invesco S&P 100 Equal Weight ETF,5,Average,Silver,3.0,60.1,60.1,60.1,61.6,63.3,60.0
-WisdomTree,IHDG,WisdomTree International Hedged Quality Dividend Growth Fund,5,Low,Bronze,3.0,60.1,60.1,60.1,60.8,63.2,76.0
-ALPS,EQL,ALPS Equal Sector Weight ETF,5,Below Average,Bronze,3.0,60.0,60.0,60.0,60.0,64.8,96.0
-Xtrackers,DBAW,Xtrackers MSCI All World ex US Hedged Equity ETF,5,Low,Bronze,2.0,59.9,59.9,59.9,59.9,59.9,81.9
-iShares,SHYM,iShares Short Duration High Yield Muni Active ETF,5,Average,Bronze,,59.6,59.6,59.6,59.6,41.1,27.2
-PIMCO,MFDX,PIMCO RAFI Dynamic Multi-Factor International Equity ETF,5,Below Average,Gold,2.0,59.3,59.3,59.3,59.3,59.3,69.8
-iShares,HEEM,iShares Currency Hedged MSCI Emerging Markets ETF,4,Low,Neutral,2.0,59.3,59.3,59.3,59.3,59.1,50.1
-iShares,ILF,iShares Latin America 40 ETF,4,Average,Bronze,4.0,59.1,59.1,59.4,51.7,59.3,59.7
-Schwab,SCHF,Schwab International Equity ETF™,4,Average,Silver,2.0,59.0,59.0,61.1,58.7,60.8,40.9
-iShares,IWL,iShares Russell Top 200 ETF,5,Average,Bronze,3.0,59.0,59.0,59.0,59.0,59.0,66.4
-Nuveen,NNY,Nuveen New York Municipal Value Fund,5,Low,,,59.0,59.0,59.0,59.0,59.0,59.0
-Goldman Sachs,GSST,Goldman Sachs Ultra Short Bond ETF,4,Average,Neutral,3.0,59.0,59.0,59.0,59.0,35.1,14.1
-Invesco,PPA,Invesco Aerospace & Defense ETF,5,Below Average,Neutral,2.0,58.7,58.7,58.7,62.0,72.0,74.2
-Vanguard,VMBS,Vanguard Mortgage-Backed Securities Index Fund ETF Shares,4,Average,,5.0,58.6,58.6,60.0,61.1,66.6,51.8
-Pacer,COWG,Pacer US Large Cap Cash Cows Growth Leaders ETF,5,Below Average,Neutral,5.0,58.4,58.4,57.6,54.0,62.0,68.9
-Vanguard,MGC,Vanguard Mega Cap Index Fund ETF Shares,5,Average,Silver,3.0,58.1,58.1,58.1,58.1,64.1,42.2
-Vanguard,VFH,Vanguard Financials Index Fund ETF Shares,4,Average,Bronze,3.0,57.9,57.9,58.8,53.4,56.2,72.2
-Invesco,PWB,Invesco Large Cap Growth ETF,5,Average,Bronze,3.0,57.6,57.6,57.6,57.6,70.7,22.1
-Morgan Stanley,MSSM,Morgan Stanley Pathway Small-Mid Cap Equity ETF,4,Below Average,Neutral,4.0,57.5,57.5,57.5,57.5,57.5,57.5
-Schwab,SCHI,Schwab 5-10 Year Corporate Bond ETF,4,Average,Silver,3.0,56.9,56.9,56.9,66.5,79.2,95.7
-iShares,HEFA,iShares Currency Hedged MSCI EAFE ETF,5,Low,Bronze,3.0,56.6,56.6,56.3,48.4,73.1,97.9
-American Century,SDSI,American Century® Short Duration Strategic Income ETF,4,Average,Neutral,2.0,56.5,56.5,56.5,56.5,56.5,66.4
-iShares,IYH,iShares U.S. Healthcare ETF,4,Below Average,Neutral,4.0,56.3,56.3,57.3,44.4,40.1,46.8
-iShares,IYF,iShares U.S. Financials ETF,5,Below Average,Bronze,2.0,56.3,56.3,56.3,59.2,68.5,39.2
-iShares,IXG,iShares Global Financials ETF,4,Below Average,Bronze,3.0,56.1,56.1,56.1,56.1,56.1,60.1
-SPDR,MDYG,State Street® SPDR® S&P 400™ Mid Cap Growth ETF,4,Average,Silver,2.0,56.1,56.1,56.1,56.1,54.9,35.1
-Northern Trust,SKOR,FlexShares Credit-Scored US Corporate Bond Index Fund,4,Low,Silver,3.0,56.0,56.0,56.0,56.0,71.7,100.0
-iShares,MXI,iShares Global Materials ETF,4,Average,Neutral,4.0,56.0,56.0,56.0,56.0,56.0,37.5
-American Century,AVEM,Avantis Emerging Markets Equity ETF,4,Average,Bronze,2.0,55.9,55.9,62.9,63.6,75.1,21.8
-Dimensional,DFAE,Dimensional Emerging Core Equity Market ETF,4,Average,Silver,2.0,55.8,55.8,56.5,62.4,66.1,26.3
-SPDR,SPSB,State Street® SPDR® Portfolio Short Term Corporate Bond ETF,4,Below Average,Gold,3.0,55.7,55.7,55.7,53.1,56.5,56.6
-Franklin Templeton,FLTW,Franklin FTSE Taiwan ETF,5,Below Average,Neutral,5.0,55.5,55.5,58.8,57.0,59.0,32.1
-iShares,IHI,iShares U.S. Medical Devices ETF,4,Average,Neutral,3.0,55.5,55.5,58.4,57.2,47.1,56.3
-Vanguard,VTV,Vanguard Value Index Fund ETF Shares,4,Average,Gold,3.0,55.5,55.5,57.1,48.7,51.6,67.6
-Invesco,GOVI,Invesco Equal Weight 0-30 Year Treasury ETF,4,Below Average,Bronze,3.0,55.3,55.3,55.3,56.7,56.6,77.0
-First Trust,FTLS,First Trust Long/Short Equity ETF,4,Below Average,Neutral,4.0,55.2,55.2,55.2,55.2,60.1,47.5
-Invesco,OIA,Invesco Municipal Income Opportunities Trust,5,Average,,,55.1,55.1,55.1,55.1,55.1,65.0
-iShares,AOR,iShares Core 60/40 Balanced Allocation ETF,4,Below Average,Silver,3.0,55.0,55.0,55.0,39.3,57.5,73.1
-iShares,URTH,iShares MSCI World ETF,5,Average,Bronze,3.0,54.9,54.9,54.9,54.4,71.9,96.0
-iShares,IEI,iShares 3-7 Year Treasury Bond ETF,4,Below Average,Neutral,3.0,54.9,54.9,54.6,29.6,42.1,47.3
-Vanguard,VTIP,Vanguard Short-Term Inflation-Protected Securities Index Fund ETF Shares,4,Below Average,Gold,3.0,54.9,54.9,51.7,39.8,45.7,59.5
-Northern Trust,FDLS,Inspire Fidelis Multi Factor ETF,5,Average,Bronze,3.0,54.8,54.8,54.8,54.8,54.8,53.3
-Franklin Templeton,FLMI,Franklin Dynamic Municipal Bond ETF,5,Below Average,Neutral,,54.7,54.7,54.7,63.3,80.5,65.3
-American Century,KORP,American Century Diversified Corporate Bond ETF,5,Below Average,Neutral,2.0,54.6,54.6,54.6,54.6,55.5,93.4
-Vanguard,VGK,Vanguard FTSE Europe ETF,4,Average,Gold,2.0,54.6,54.6,53.7,52.3,62.8,71.0
-Invesco,SPHQ,Invesco S&P 500® Quality ETF,5,Below Average,Silver,3.0,54.5,54.5,57.1,43.4,41.7,48.9
-iShares,IGRO,iShares International Dividend Growth ETF,4,Low,Gold,2.0,54.4,54.4,54.4,54.4,57.8,47.0
-iShares,IVE,iShares S&P 500 Value ETF,4,Average,Silver,4.0,54.3,54.3,56.4,55.4,54.6,83.3
-iShares,IEF,iShares 7-10 Year Treasury Bond ETF,5,Low,Bronze,3.0,54.3,54.3,53.6,54.4,70.2,30.8
-WisdomTree,DDWM,WisdomTree Dynamic International Equity ETF,5,Low,Gold,2.0,54.2,54.2,54.2,54.2,60.2,72.6
-iShares,USXF,iShares® ESG Advanced MSCI USA ETF,4,Below Average,Silver,5.0,54.2,54.2,54.2,54.2,49.4,66.9
-Vanguard,VXUS,Vanguard Total International Stock Index Fund ETF Shares,4,Average,Gold,2.0,54.0,54.0,53.4,40.2,55.0,55.8
-BlackRock,FTEC,Fidelity MSCI Information Technology Index ETF,4,Below Average,Bronze,4.0,53.8,53.8,54.4,42.5,37.8,33.1
-Schwab,SCHX,Schwab U.S. Large-Cap ETF™,4,Average,Gold,3.0,53.7,53.7,55.8,49.3,55.3,66.7
-Amplify,DIVO,Amplify CWP Enhanced Dividend Income ETF,5,Average,Neutral,2.0,53.6,53.6,56.8,44.2,42.8,57.1
-Northern Trust,GUNR,FlexShares Morningstar Global Upstream Natural Resources Index Fund,4,Below Average,Bronze,2.0,53.5,53.5,53.5,49.7,67.7,72.5
-SPDR,SPTM,State Street® SPDR® Portfolio S&P 1500 Composite Stock Market ETF,4,Average,Gold,3.0,53.5,53.5,51.9,51.6,57.0,82.5
-Franklin Templeton,PVAL,Putnam Focused Large Cap Value ETF,5,Average,Bronze,3.0,53.4,53.4,62.4,69.6,64.6,82.6
-iShares,DGRO,iShares Core Dividend Growth ETF,5,Below Average,Gold,3.0,53.3,53.3,54.9,53.3,54.7,75.2
-iShares,ISCF,iShares MSCI Intl Small-Cap Multifactor ETF,4,Average,Gold,3.0,53.3,53.3,53.3,53.3,53.3,61.9
-SPDR,DIA,State Street® SPDR® Dow Jones Industrial Average® ETF Trust,4,Average,Neutral,3.0,53.0,53.0,57.8,46.9,47.4,55.7
-Vanguard,VO,Vanguard Mid-Cap Index Fund ETF Shares,4,Below Average,Gold,4.0,52.8,52.8,56.7,53.1,52.1,69.6
-T. Rowe Price,TSPA,T. Rowe Price US Equity Research ETF,5,Average,Silver,3.0,52.5,52.5,52.5,54.0,70.4,82.5
-iShares,IAI,iShares U.S. Broker-Dealers & Securities Exchanges ETF,5,Average,Neutral,3.0,52.4,52.4,52.4,52.4,54.7,71.6
-Invesco,PRF,Invesco RAFI US 1000 ETF,4,Average,Silver,3.0,52.3,52.3,53.4,45.5,63.8,73.1
-Dimensional,DFSD,Dimensional Short-Duration Fixed Income ETF,4,Below Average,Gold,4.0,52.3,52.3,52.3,53.3,38.4,53.4
-J.P. Morgan,MSD,MS Emerging Markets Debt Fund,4,Below Average,,,52.2,52.2,52.2,52.4,55.8,68.8
-BlackRock,CII,"BlackRock Enhanced Large Cap Core Fund, Inc",5,Average,,4.0,52.2,52.2,52.2,52.2,56.0,15.4
-Morgan Stanley,ETY,Eaton Vance Tax-Managed Diversified Equity Income Fund,4,Average,,3.0,52.1,52.1,52.1,57.8,49.4,84.3
-Invesco,IUS,Invesco RAFI™ Strategic US ETF,5,Average,Silver,3.0,52.1,52.1,52.1,52.1,52.1,88.0
-iShares,IWF,iShares Russell 1000 Growth ETF,4,Average,Silver,3.0,52.0,52.0,52.8,43.4,43.7,78.6
-SPDR,XLC,State Street® Communication Services Select Sector SPDR® ETF,4,Average,Neutral,3.0,51.9,51.9,60.2,57.8,69.5,53.2
-BlackRock,FIDU,Fidelity MSCI Industrials Index ETF,4,Below Average,Bronze,3.0,51.9,51.9,51.9,43.0,31.3,46.8
-Dimensional,DFAI,Dimensional International Core Equity Market ETF,4,Below Average,Silver,2.0,51.8,51.8,53.7,56.9,58.2,34.4
-Dimensional,DFCF,Dimensional Core Fixed Income ETF,5,Below Average,Bronze,4.0,51.8,51.8,51.8,53.5,84.0,61.6
-Pacer,FLRT,Pacer Aristotle Pacific Floating Rate High Income ETF,4,Below Average,Neutral,,51.6,51.6,51.6,51.6,52.6,51.5
-BlackRock,FNCL,Fidelity MSCI Financials Index ETF,4,Below Average,Bronze,3.0,51.4,51.4,51.4,53.1,67.4,75.3
-SPDR,SPYM,State Street® SPDR® Portfolio S&P 500® ETF,4,Average,Gold,3.0,51.3,51.3,55.8,49.8,51.9,57.9
-T. Rowe Price,TBUX,T. Rowe Price Ultra Short-Term Bond ETF,4,Average,Neutral,3.0,51.3,51.3,51.3,51.3,47.8,24.3
-iShares,EWT,iShares MSCI Taiwan ETF,5,Low,Neutral,5.0,50.9,50.9,48.7,42.9,58.7,62.4
-SPDR,SPYG,State Street® SPDR® Portfolio S&P 500 Growth ETF,4,Average,Silver,3.0,50.8,50.8,52.8,53.6,50.8,63.5
-iShares,ACWI,iShares MSCI ACWI ETF,4,Average,Bronze,2.0,50.7,50.7,59.5,53.0,58.6,90.7
-SPDR,XLV,State Street® Health Care Select Sector SPDR® ETF,5,Below Average,Neutral,4.0,50.7,50.7,53.1,56.5,55.7,63.6
-Schwab,SCHP,Schwab U.S. TIPS ETF™,4,Average,Gold,3.0,50.7,50.7,48.3,46.3,71.7,64.2
-SPDR,SPY,State Street® SPDR® S&P 500® ETF Trust,4,Average,Silver,3.0,50.5,50.5,53.9,45.8,47.6,58.6
-Vanguard,VT,Vanguard Total World Stock Index Fund ETF Shares,4,Average,Gold,2.0,50.4,50.4,55.6,36.9,44.1,56.0
-ALPS,OUSM,ALPS O'Shares U.S. Small-Cap Quality Dividend ETF Shares,5,Low,Gold,5.0,50.4,50.4,50.4,50.4,50.4,48.2
-PIMCO,PDO,PIMCO Dynamic Income Opportunities Fund,4,Average,,,50.3,50.3,54.7,46.5,46.1,7.9
-JPMorgan,JQUA,JPMorgan U.S. Quality Factor ETF,4,Below Average,Gold,4.0,50.2,50.2,52.6,49.5,39.0,53.2
-SPDR,XLK,State Street® Technology Select Sector SPDR® ETF,4,Below Average,Bronze,5.0,50.0,50.0,51.5,44.3,47.0,30.6
-ALPS,MNBD,ALPS Intermediate Municipal Bond ETF,5,Below Average,Neutral,,50.0,50.0,50.0,50.0,50.0,50.0
-First Trust,MMSC,First Trust Multi-Manager Small Cap Opportunities ETF,5,Average,Neutral,2.0,50.0,50.0,50.0,50.0,50.0,50.0
+SPDR,GAL,State Street® Global Allocation ETF,4,Average,Silver,2.0,98.7,98.7,98.7,98.7,98.7,98.7
+Northern Trust,QLC,FlexShares US Quality Large Cap Index Fund,4,Average,Gold,3.0,95.3,95.3,95.3,95.3,95.3,95.3
+Franklin Templeton,DIEM,Franklin Emerging Market Core Dividend Tilt Index ETF,4,Average,Silver,2.0,94.0,94.0,94.0,94.0,94.0,94.0
+Franklin Templeton,FTMU,Franklin Municipal Income ETF,4,Average,Neutral,,93.4,93.4,93.4,93.4,93.4,93.4
+First Trust,FTXH,First Trust Nasdaq Pharmaceuticals ETF,4,Low,Bronze,3.0,93.2,93.2,93.2,93.2,93.2,93.2
+Xtrackers,DEUS,Xtrackers Russell US Multifactor ETF,4,Below Average,Silver,4.0,92.1,92.1,92.1,92.1,92.1,92.1
+iShares,LQDB,iShares BBB Rated Corporate Bond ETF,4,Average,Bronze,3.0,90.8,90.8,90.8,90.8,90.8,90.8
+VanEck,MBBB,VanEck Moody's Analytics BBB Corporate Bond ETF,4,Average,Neutral,3.0,90.5,90.5,90.5,90.5,90.5,90.5
+First Trust,FLN,First Trust Latin America AlphaDEX® Fund,5,Average,Silver,3.0,90.3,90.3,90.3,90.3,90.3,90.3
+Xtrackers,DBEU,Xtrackers MSCI Europe Hedged Equity ETF,4,Low,Neutral,3.0,88.8,88.8,88.8,88.8,88.8,90.6
+Nuveen,NAN,Nuveen New York Quality Municipal Income Fund,4,Below Average,,,88.7,88.7,88.7,88.7,88.7,58.9
+First Trust,FCA,First Trust China AlphaDEX® Fund,5,Average,Bronze,2.0,88.2,88.2,88.2,88.2,88.2,88.9
+iShares,MEAR,iShares Short Maturity Municipal Bond Active ETF,4,Below Average,Bronze,,87.6,87.6,87.6,87.6,60.7,95.9
+Nuveen,NMI,Nuveen Municipal Income,5,Below Average,,,87.4,87.4,87.4,87.4,87.4,87.4
+Xtrackers,DBEZ,Xtrackers MSCI Eurozone Hedged Equity ETF,4,Below Average,Neutral,3.0,86.5,86.5,86.5,86.5,86.5,86.5
+iShares,HEZU,iShares Currency Hedged MSCI Eurozone ETF,4,Below Average,Neutral,3.0,85.5,85.5,85.5,85.5,85.5,81.3
+Invesco,IIM,Invesco Insured Municipal Income Trust,4,Average,,,81.8,81.8,81.8,81.8,88.6,93.3
+Invesco,KBWP,Invesco KBW Property & Casualty Insurance ETF,4,Below Average,Neutral,2.0,81.8,81.8,81.8,81.8,81.8,81.8
+Franklin Templeton,FTMA,Franklin Massachusetts Municipal Inc ETF,4,Average,Neutral,,81.5,81.5,81.5,81.5,81.5,84.1
+Goldman Sachs,GSGO,Goldman Sachs Growth Opportunities ETF,4,Average,Neutral,3.0,81.4,81.4,81.4,81.4,81.4,81.4
+Invesco,PKW,Invesco BuyBack Achievers ETF,5,Average,Neutral,3.0,81.1,81.1,81.1,81.1,81.1,51.9
+Vanguard,VGSH,Vanguard Short-Term Treasury Index Fund ETF Shares,4,Below Average,Gold,3.0,81.0,81.0,79.4,92.4,95.3,40.3
+iShares,HAWX,iShares Currency Hedged MSCI ACWI ex U.S. ETF,5,Low,Bronze,2.0,80.5,80.5,80.5,80.5,80.5,78.9
+SPDR,ROKT,State Street® SPDR® S&P Kensho Final Frontiers ETF,4,Average,Neutral,2.0,79.2,79.2,79.2,79.2,79.2,81.5
+Nuveen,NAZ,Nuveen Arizona Quality Municipal Income Fund,4,Low,,,78.9,78.9,78.9,78.9,78.9,85.6
+Franklin Templeton,PMO,Putnam Municipal Opportunities Trust,5,Average,,,78.6,78.6,78.6,78.6,78.6,81.8
+Xtrackers,DBEM,Xtrackers MSCI Emerging Markets Hedged Equity ETF,4,Low,Neutral,2.0,78.6,78.6,78.6,78.6,78.6,81.3
+BlackRock,BLW,BlackRock Limited Duration Income,4,Below Average,,,76.9,76.9,76.9,76.9,79.7,50.9
+Goldman Sachs,GTIP,Goldman Sachs Access Inflation Protected USD Bond ETF,4,Below Average,Silver,3.0,76.2,76.2,76.2,76.2,76.2,73.7
+WisdomTree,EMMF,WisdomTree Emerging Markets Multifactor Fund,4,Low,Bronze,3.0,76.1,76.1,76.1,76.1,76.1,79.9
+WisdomTree,WTMF,WisdomTree Managed Futures Strategy Fund,4,Low,,,75.7,75.7,75.7,75.7,75.7,75.7
+Morgan Stanley,CVSB,Calvert Ultra-Short Investment Grade ETF,4,Average,Neutral,3.0,75.3,75.3,75.3,75.3,75.3,75.3
+SPDR,KCE,State Street® SPDR® S&P® Capital Markets ETF,5,Average,Neutral,2.0,75.2,75.2,75.2,75.2,75.2,75.2
+JPMorgan,JPUS,JPMorgan Diversified Return U.S. Equity ETF,5,Low,Bronze,3.0,75.1,75.1,75.1,75.1,75.1,79.1
+JPMorgan,JCPI,JPMorgan Inflation Managed Bond ETF,5,Low,Silver,4.0,74.3,74.3,74.3,74.3,74.3,16.5
+SPDR,EDIV,State Street® SPDR® S&P Emerging Markets Dividend ETF,5,Below Average,Gold,2.0,74.2,74.2,74.2,72.8,72.5,44.0
+iShares,RXI,iShares Global Consumer Discretionary ETF,4,Low,Silver,4.0,72.9,72.9,72.9,72.9,72.9,72.9
+Franklin Templeton,FTSD,Franklin Short Duration U.S. Government ETF,4,Below Average,Neutral,,72.8,72.8,72.8,72.8,72.8,72.8
+ALPS,REIT,ALPS Active REIT ETF,4,Below Average,Neutral,3.0,71.6,71.6,71.6,71.6,71.6,71.6
+JPMorgan,JCPB,JPMorgan Core Plus Bond ETF,4,Average,Gold,3.0,71.5,71.5,73.9,73.1,90.4,52.0
+iShares,INMU,iShares Intermediate Muni Income Active ETF,4,Below Average,Bronze,,71.4,71.4,71.4,71.4,80.6,87.0
+First Trust,EIPX,FT Energy Income Partners Strategy ETF,5,Low,Neutral,2.0,71.0,71.0,71.0,71.0,71.0,69.3
+Global X,AUSF,Global X Adaptive U.S. Factor ETF,5,Low,Silver,3.0,70.7,70.7,70.7,70.7,62.9,22.7
+iShares,SHYM,iShares Short Duration High Yield Muni Active ETF,5,Average,Bronze,,70.6,70.6,70.6,66.4,72.6,76.3
+iShares,EFV,iShares MSCI EAFE Value ETF,4,Average,Gold,2.0,70.6,70.6,56.5,48.6,58.5,44.0
+iShares,CNYA,iShares MSCI China A ETF,4,Low,Bronze,2.0,70.3,70.3,70.3,70.3,76.9,62.1
+WisdomTree,HEDJ,WisdomTree Europe Hedged Equity Fund,4,Below Average,Neutral,3.0,70.3,70.3,70.3,70.3,70.3,67.6
+SPDR,STOT,State Street® DoubleLine® Short Duration Total Return Tactical ETF,4,Low,Bronze,,70.2,70.2,70.2,70.2,70.2,73.2
+iShares,IYG,iShares U.S. Financial Services ETF,4,Average,Neutral,3.0,69.6,69.6,69.6,60.5,26.3,18.7
+Vanguard,VONE,Vanguard Russell 1000 Index Fund ETF Shares,4,Average,Silver,3.0,69.4,69.4,69.4,70.0,61.1,55.9
+First Trust,FICS,First Trust International Developed Cap Strength ETF,4,Below Average,Neutral,4.0,69.1,69.1,69.1,69.1,69.1,74.3
+Franklin Templeton,PGRO,Putnam Focused Large Cap Growth ETF,4,Average,Neutral,4.0,68.9,68.9,68.9,68.9,68.9,76.2
+iShares,IETC,iShares U.S. Tech Independence Focused ETF,4,Average,Gold,3.0,68.8,68.8,68.8,68.8,82.6,71.8
+Xtrackers,DBAW,Xtrackers MSCI All World ex US Hedged Equity ETF,5,Low,Bronze,2.0,68.8,68.8,68.8,68.8,68.8,77.2
+Invesco,GSY,Invesco Ultra Short Duration ETF,4,Average,Bronze,3.0,68.5,68.5,67.7,78.6,70.7,83.3
+ALPS,EQL,ALPS Equal Sector Weight ETF,5,Below Average,Bronze,3.0,68.3,68.3,68.3,68.3,87.8,30.5
+Invesco,IDMO,Invesco S&P International Developed Momentum ETF,5,Average,Silver,3.0,67.6,67.6,67.9,66.3,39.1,17.7
+First Trust,TDIV,First Trust NASDAQ Technology Dividend Index Fund,4,Low,Silver,4.0,67.6,67.6,67.6,66.4,57.3,10.9
+iShares,SYSB,iShares Systematic Bond ETF,4,Below Average,Gold,3.0,67.2,67.2,67.2,67.2,51.7,87.9
+VanEck,RTH,VanEck Retail ETF,5,Low,Bronze,4.0,66.3,66.3,66.3,66.3,66.3,55.2
+Janus Henderson,JAAA,Janus Henderson AAA CLO ETF,4,Below Average,Bronze,,66.2,66.2,74.6,49.0,56.0,58.9
+WisdomTree,DTD,WisdomTree U.S. Total Dividend Fund,4,Below Average,Gold,3.0,65.8,65.8,65.8,65.8,65.8,83.4
+First Trust,FAD,First Trust Multi Cap Growth AlphaDEX® Fund,5,Average,Bronze,2.0,65.6,65.6,65.6,65.6,65.6,65.6
+Franklin Templeton,FTPA,Franklin Pennsylvania Municipal Income ETF,4,Average,Neutral,,65.6,65.6,65.6,65.6,65.6,65.6
+Vanguard,VHT,Vanguard Health Care Index Fund ETF Shares,4,Below Average,Bronze,3.0,65.4,65.4,73.0,77.1,74.9,73.6
+PIMCO,MFUS,PIMCO RAFI Dynamic Multi-Factor U.S. Equity ETF,4,Average,Gold,3.0,65.2,65.2,65.2,65.2,65.2,65.2
+iShares,GLOF,iShares Global Equity Factor ETF,4,Average,Gold,2.0,64.9,64.9,64.9,64.9,64.9,39.9
+Franklin Templeton,DIVI,Franklin International Core Dividend Tilt Index ETF,4,Below Average,Silver,3.0,64.3,64.3,64.3,69.7,72.3,68.4
+JPMorgan,HOLA,JPMorgan International Hedged Equity Laddered Overlay ETF,4,Average,Bronze,4.0,64.3,64.3,64.3,64.3,64.3,70.8
+BlackRock,CII,"BlackRock Enhanced Large Cap Core Fund, Inc",5,Average,,4.0,64.1,64.1,64.1,76.1,72.9,97.3
+iShares,NEAR,iShares Short Duration Bond Active ETF,4,Low,Gold,,63.9,63.9,60.1,49.7,30.4,8.0
+BlackRock,FDIS,Fidelity MSCI Consumer Discretionary Index ETF,4,Average,Gold,3.0,63.6,63.6,63.6,63.6,40.7,36.7
+SPDR,SPYV,State Street® SPDR® Portfolio S&P 500 Value ETF,4,Average,Silver,4.0,62.9,62.9,53.0,53.1,57.1,10.4
+SPDR,SPYX,State Street® SPDR® S&P® 500 Fossil Fuel Reserves Free ETF,4,Average,Bronze,4.0,62.8,62.8,62.8,62.8,72.3,24.3
+WisdomTree,USMF,WisdomTree U.S. Multifactor Fund,4,Low,Silver,2.0,62.2,62.2,62.2,62.2,62.2,58.1
+Northern Trust,SKOR,FlexShares Credit-Scored US Corporate Bond Index Fund,4,Low,Silver,3.0,61.7,61.7,61.7,61.7,69.9,16.8
+Schwab,HGER,Harbor Commodity All-Weather Strategy ETF,5,Below Average,Neutral,,61.0,61.0,62.1,66.0,61.4,59.5
+Invesco,PBTP,Invesco 0-5 Yr US TIPS ETF,4,Below Average,Bronze,3.0,61.0,61.0,61.0,61.0,61.0,61.0
+iShares,IGIB,iShares 5-10 Year Investment Grade Corporate Bond ETF,4,Below Average,Silver,3.0,60.9,60.9,66.2,45.6,48.3,18.9
+Vanguard,VFMF,Vanguard U.S. Multifactor ETF Shares,5,Average,Gold,3.0,60.8,60.8,60.8,60.8,60.8,63.0
+iShares,IXN,iShares Global Tech ETF,4,Below Average,Bronze,5.0,60.7,60.7,60.7,55.5,52.9,22.1
+JPMorgan,JPLD,Jpmorgan Limited Duration Bond ETF,4,Below Average,Gold,,60.7,60.7,60.7,51.7,30.2,15.3
+Nuveen,NUDM,Nuveen ESG International Developed Markets Equity ETF,4,Average,Bronze,4.0,60.6,60.6,60.6,61.0,73.7,73.6
+SPDR,SPTI,State Street® SPDR® Portfolio Intermediate Term Treasury ETF,4,Below Average,Silver,3.0,60.5,60.5,52.0,36.3,56.4,17.0
+PIMCO,SMMU,PIMCO Short Term Municipal Bond Active Exchange-Traded Fund,4,Average,Bronze,,60.4,60.4,60.4,60.4,60.4,78.5
+VanEck,HAP,VanEck Natural Resources ETF,4,Below Average,Neutral,3.0,60.1,60.1,60.1,60.1,69.2,39.4
+iShares,STIP,iShares 0-5 Year TIPS Bond ETF,4,Low,Gold,3.0,60.1,60.1,54.1,75.2,71.5,0.0
+Invesco,GOVI,Invesco Equal Weight 0-30 Year Treasury ETF,4,Below Average,Bronze,3.0,60.0,60.0,60.0,65.9,76.5,36.3
+PIMCO,LONZ,PIMCO Senior Loan Active Exchange-Traded Fund,4,Average,Neutral,,60.0,60.0,60.0,60.0,65.7,66.3
+PIMCO,MFDX,PIMCO RAFI Dynamic Multi-Factor International Equity ETF,5,Below Average,Gold,2.0,59.9,59.9,59.9,59.9,59.9,68.8
+SPDR,DGT,State Street® SPDR® Global Dow ETF,5,Average,Neutral,2.0,59.8,59.8,59.8,59.8,59.8,79.0
+iShares,DVY,iShares Select Dividend ETF,4,Below Average,Silver,2.0,59.6,59.6,68.6,50.5,58.9,52.8
+Vanguard,VFH,Vanguard Financials Index Fund ETF Shares,4,Average,Bronze,3.0,59.6,59.6,59.7,63.1,43.3,26.3
+Invesco,EQWL,Invesco S&P 100 Equal Weight ETF,5,Average,Silver,3.0,59.6,59.6,59.6,62.0,60.2,79.5
+SPDR,XLP,State Street® Consumer Staples Select Sector SPDR® ETF,4,Average,Bronze,2.0,59.5,59.5,54.6,46.9,51.8,43.4
+First Trust,FTGC,First Trust Global Tactical Commodity Strategy Fund,4,Below Average,Neutral,,59.4,59.4,70.3,84.1,74.1,92.8
+Vanguard,VGIT,Vanguard Intermediate-Term Treasury Index Fund ETF Shares,4,Below Average,Silver,3.0,59.4,59.4,60.6,43.5,58.4,12.5
+Defiance,SIXG,Defiance Connective Technologies ETF,4,Average,Bronze,3.0,59.2,59.2,59.2,59.2,59.2,49.9
+iShares,IYK,iShares US Consumer Staples ETF,4,Average,Bronze,2.0,59.0,59.0,67.8,50.6,51.8,60.2
+iShares,IWL,iShares Russell Top 200 ETF,5,Average,Bronze,3.0,58.8,58.8,58.8,58.8,58.8,51.8
+iShares,IAGG,iShares Core International Aggregate Bond ETF,4,Below Average,Bronze,3.0,58.3,58.3,61.0,34.1,18.1,14.9
+Schwab,SCHF,Schwab International Equity ETF™,4,Average,Silver,2.0,57.9,57.9,56.3,52.9,47.7,42.5
+iShares,MXI,iShares Global Materials ETF,4,Average,Neutral,4.0,57.8,57.8,57.8,57.8,57.8,46.3
+iShares,SLQD,iShares 0-5 Year Investment Grade Corporate Bond ETF,4,Average,Silver,3.0,57.7,57.7,57.7,57.7,59.0,92.0
+Vanguard,VMBS,Vanguard Mortgage-Backed Securities Index Fund ETF Shares,4,Average,,5.0,57.6,57.6,59.2,54.2,48.8,26.2
+Goldman Sachs,GSUS,Goldman Sachs MarketBeta US Equity ETF,4,Average,Silver,3.0,57.6,57.6,57.6,57.6,57.6,23.3
+iShares,IWP,iShares Russell Mid-Cap Growth ETF,4,Average,Bronze,3.0,57.6,57.6,47.8,43.3,51.6,35.8
+Invesco,OIA,Invesco Municipal Income Opportunities Trust,5,Average,,,57.5,57.5,57.5,57.5,57.5,36.2
+First Trust,LGOV,First Trust Long Duration Opportunities ETF,4,Below Average,Neutral,,57.4,57.4,57.4,55.4,52.6,76.7
+iShares,AOA,iShares Core 80/20 Aggressive Allocation ETF,4,Below Average,Silver,2.0,57.2,57.2,56.2,49.7,30.5,63.2
+Vanguard,VFMV,Vanguard U.S. Minimum Volatility ETF ETF Shares,5,Low,Gold,4.0,57.0,57.0,57.0,57.0,57.0,33.6
+Vanguard,MGC,Vanguard Mega Cap Index Fund ETF Shares,5,Average,Silver,3.0,57.0,57.0,57.0,56.2,52.9,47.8
+Pacer,COWG,Pacer US Large Cap Cash Cows Growth Leaders ETF,5,Below Average,Neutral,5.0,57.0,57.0,55.5,56.6,36.9,35.4
+American Century,SDSI,American Century® Short Duration Strategic Income ETF,4,Average,Neutral,2.0,56.9,56.9,56.9,56.9,56.9,94.1
+iShares,HEEM,iShares Currency Hedged MSCI Emerging Markets ETF,4,Low,Neutral,2.0,56.8,56.8,56.8,59.7,46.7,0.0
+iShares,ILF,iShares Latin America 40 ETF,4,Average,Bronze,4.0,56.8,56.8,47.2,39.5,60.2,85.8
+iShares,BRLN,iShares Floating Rate Loan Active ETF,4,Below Average,Bronze,,56.7,56.7,56.7,56.7,56.7,56.7
+WisdomTree,EPS,WisdomTree U.S. LargeCap Fund,5,Average,Gold,4.0,56.7,56.7,56.7,56.7,56.7,44.3
+American Century,KORP,American Century Diversified Corporate Bond ETF,5,Below Average,Neutral,2.0,56.5,56.5,56.5,59.6,85.5,32.7
+iShares,DGRO,iShares Core Dividend Growth ETF,5,Below Average,Gold,3.0,56.2,56.2,55.7,63.6,85.4,65.0
+Vanguard,VEU,Vanguard FTSE All-World ex-US Index Fund ETF Shares,4,Below Average,Gold,2.0,56.2,56.2,46.6,37.5,26.5,24.4
+iShares,IHI,iShares U.S. Medical Devices ETF,4,Average,Neutral,3.0,55.8,55.8,53.4,55.0,47.6,48.7
+Invesco,PWB,Invesco Large Cap Growth ETF,5,Average,Bronze,3.0,55.4,55.4,55.4,55.4,38.2,43.1
+iShares,IYF,iShares U.S. Financials ETF,5,Below Average,Bronze,2.0,55.1,55.1,60.7,61.4,30.7,36.6
+WisdomTree,IHDG,WisdomTree International Hedged Quality Dividend Growth Fund,5,Low,Bronze,3.0,55.1,55.1,55.1,53.7,47.2,86.0
+Invesco,IMVP,Invesco India ETF,4,Below Average,Neutral,3.0,55.0,55.0,55.0,55.0,55.0,86.9
+Vanguard,VTIP,Vanguard Short-Term Inflation-Protected Securities Index Fund ETF Shares,4,Below Average,Gold,3.0,54.9,54.9,46.2,66.0,61.0,27.2
+Invesco,IBBQ,Invesco Nasdaq Biotechnology ETF,4,Average,Bronze,2.0,54.8,54.8,54.8,54.8,54.8,54.5
+iShares,IEI,iShares 3-7 Year Treasury Bond ETF,4,Below Average,Neutral,3.0,54.8,54.8,50.1,56.4,59.9,7.6
+iShares,SMLF,iShares U.S. Small-Cap Equity Factor ETF,5,Average,Gold,4.0,54.7,54.7,54.7,38.2,28.7,32.3
+iShares,IEF,iShares 7-10 Year Treasury Bond ETF,5,Low,Bronze,3.0,54.3,54.3,55.7,54.8,60.3,27.1
+Invesco,IUS,Invesco RAFI™ Strategic US ETF,5,Average,Silver,3.0,54.3,54.3,54.3,54.3,54.3,35.1
+Amplify,DIVO,Amplify CWP Enhanced Dividend Income ETF,5,Average,Neutral,2.0,54.3,54.3,53.8,58.1,51.6,40.8
+Vanguard,VTV,Vanguard Value Index Fund ETF Shares,4,Average,Gold,3.0,54.2,54.2,49.3,55.3,62.2,52.8
+iShares,AOR,iShares Core 60/40 Balanced Allocation ETF,4,Below Average,Silver,3.0,54.2,54.2,48.2,48.8,36.5,47.7
+Invesco,SPHQ,Invesco S&P 500® Quality ETF,5,Below Average,Silver,3.0,54.1,54.1,44.6,46.4,56.6,27.5
+WisdomTree,DDWM,WisdomTree Dynamic International Equity ETF,5,Low,Gold,2.0,54.0,54.0,54.0,57.9,56.5,63.8
+Franklin Templeton,FLTW,Franklin FTSE Taiwan ETF,5,Below Average,Neutral,5.0,54.0,54.0,53.5,43.2,30.2,37.8
+J.P. Morgan,MSD,MS Emerging Markets Debt Fund,4,Below Average,,,54.0,54.0,51.1,81.9,63.7,75.7
+iShares,IYH,iShares U.S. Healthcare ETF,4,Below Average,Neutral,4.0,53.9,53.9,40.8,37.2,35.6,19.5
+Dimensional,JHMD,John Hancock Multifactor Developed International ETF,4,Below Average,Gold,2.0,53.7,53.7,53.7,53.7,56.0,5.7
+iShares,IXJ,iShares Global Healthcare ETF,4,Low,Bronze,4.0,53.6,53.6,57.6,70.2,76.0,91.9
+Global X,XYLG,Global X S&P 500® Covered Call & Growth ETF,4,Average,Neutral,3.0,53.6,53.6,53.6,53.6,56.9,67.2
+WisdomTree,GCC,WisdomTree Enhanced Commodity Strategy Fund,4,Below Average,Bronze,,53.6,53.6,53.6,53.6,54.3,95.1
+Xtrackers,SHYL,Xtrackers Short Duration High Yield Bond ETF,4,Below Average,Gold,2.0,53.6,53.6,53.6,53.6,53.6,61.3
+BlackRock,FTEC,Fidelity MSCI Information Technology Index ETF,4,Below Average,Bronze,4.0,53.6,53.6,51.2,44.6,51.9,37.1
+First Trust,RFEM,First Trust RiverFront Dynamic Emerging Markets ETF,4,Average,Neutral,3.0,53.5,53.5,53.5,53.5,53.5,53.5
+Dimensional,DFCF,Dimensional Core Fixed Income ETF,5,Below Average,Bronze,4.0,53.4,53.4,53.4,61.7,79.0,0.0
+Vanguard,VXUS,Vanguard Total International Stock Index Fund ETF Shares,4,Average,Gold,2.0,53.4,53.4,43.8,48.3,53.9,36.9
+iShares,IMCV,iShares Morningstar Mid-Cap Value ETF,4,Average,Bronze,3.0,53.1,53.1,53.1,53.1,53.1,69.7
+iShares,URTH,iShares MSCI World ETF,5,Average,Bronze,3.0,53.0,53.0,53.1,64.7,52.2,64.9
+BlackRock,FIDU,Fidelity MSCI Industrials Index ETF,4,Below Average,Bronze,3.0,53.0,53.0,51.7,47.1,56.5,68.7
+iShares,IGRO,iShares International Dividend Growth ETF,4,Low,Gold,2.0,52.8,52.8,52.8,52.8,54.0,47.8
+Franklin Templeton,FLMI,Franklin Dynamic Municipal Bond ETF,5,Below Average,Neutral,,52.7,52.7,52.7,69.9,33.8,2.4
+Goldman Sachs,GSST,Goldman Sachs Ultra Short Bond ETF,4,Average,Neutral,3.0,52.7,52.7,52.7,52.6,21.8,32.0
+JPMorgan,JMUB,JPMorgan Municipal ETF,4,Average,Silver,,52.6,52.6,53.2,76.2,75.8,22.2
+Vanguard,VO,Vanguard Mid-Cap Index Fund ETF Shares,4,Below Average,Gold,4.0,52.5,52.5,50.8,43.0,60.1,49.8
+Franklin Templeton,PVAL,Putnam Focused Large Cap Value ETF,5,Average,Bronze,3.0,52.4,52.4,56.2,51.9,55.4,39.9
+SPDR,DIA,State Street® SPDR® Dow Jones Industrial Average® ETF Trust,4,Average,Neutral,3.0,52.4,52.4,46.4,49.5,52.0,50.8
+Xtrackers,DBEF,Xtrackers MSCI EAFE Hedged Equity ETF,5,Low,Bronze,3.0,52.2,52.2,52.6,42.0,36.5,27.6
+iShares,IXG,iShares Global Financials ETF,4,Below Average,Bronze,3.0,52.2,52.2,52.2,52.2,55.7,42.7
+Northern Trust,GUNR,FlexShares Morningstar Global Upstream Natural Resources Index Fund,4,Below Average,Bronze,2.0,52.1,52.1,56.6,54.4,45.2,35.0
+Invesco,SPVM,Invesco S&P 500 Value with Momentum ETF,5,Average,Silver,3.0,52.0,52.0,52.0,52.0,52.0,52.0
+Dimensional,DFSD,Dimensional Short-Duration Fixed Income ETF,4,Below Average,Gold,4.0,51.9,51.9,51.9,40.7,40.7,6.0
+Invesco,PPA,Invesco Aerospace & Defense ETF,5,Below Average,Neutral,2.0,51.9,51.9,51.9,39.8,29.4,52.1
+Morgan Stanley,ETY,Eaton Vance Tax-Managed Diversified Equity Income Fund,4,Average,,3.0,51.8,51.8,51.8,54.2,60.3,32.7
+SPDR,QWLD,State Street® SPDR® MSCI World StrategicFactors ETF,4,Below Average,Silver,2.0,51.8,51.8,51.8,51.8,51.8,51.8
+Dimensional,DFAI,Dimensional International Core Equity Market ETF,4,Below Average,Silver,2.0,51.5,51.5,52.1,50.7,55.8,27.5
+Franklin Templeton,INCE,Franklin Income Equity Focus ETF,4,Below Average,Neutral,,51.4,51.4,51.4,51.4,51.4,51.4
+Vanguard,VGK,Vanguard FTSE Europe ETF,4,Average,Gold,2.0,51.4,51.4,48.7,34.3,42.3,23.5
+iShares,USXF,iShares® ESG Advanced MSCI USA ETF,4,Below Average,Silver,5.0,51.3,51.3,51.3,49.9,33.3,0.0
+SPDR,SPDW,State Street® SPDR® Portfolio Developed World ex-US ETF,4,Average,Silver,2.0,51.2,51.2,65.9,67.9,73.5,37.1
+WisdomTree,EZM,WisdomTree U.S. MidCap Earnings Fund,4,Average,Gold,4.0,51.2,51.2,51.2,51.2,51.2,60.0
+Schwab,SCHP,Schwab U.S. TIPS ETF™,4,Average,Gold,3.0,51.2,51.2,49.4,61.7,54.1,33.4
+SPDR,XLC,State Street® Communication Services Select Sector SPDR® ETF,4,Average,Neutral,3.0,51.1,51.1,51.8,47.3,47.1,42.6
+BlackRock,FNCL,Fidelity MSCI Financials Index ETF,4,Below Average,Bronze,3.0,51.1,51.1,51.1,58.3,56.9,35.1
+SPDR,SPYM,State Street® SPDR® Portfolio S&P 500® ETF,4,Average,Gold,3.0,51.1,51.1,48.1,51.7,61.4,34.2
+iShares,IAI,iShares U.S. Broker-Dealers & Securities Exchanges ETF,5,Average,Neutral,3.0,51.0,51.0,51.0,53.2,58.5,40.7
+Nuveen,NUV,Nuveen Municipal Value Fund,4,Low,,,50.9,50.9,50.9,58.6,52.8,84.5
+Schwab,SCHX,Schwab U.S. Large-Cap ETF™,4,Average,Gold,3.0,50.9,50.9,44.0,44.4,36.5,21.0
+iShares,ILCG,iShares Morningstar Growth ETF,4,Average,Gold,3.0,50.7,50.7,50.7,50.7,47.5,72.7
+iShares,IVE,iShares S&P 500 Value ETF,4,Average,Silver,4.0,50.7,50.7,45.1,42.3,53.3,58.1
+Schwab,SCHI,Schwab 5-10 Year Corporate Bond ETF,4,Average,Silver,3.0,50.6,50.6,56.8,63.7,38.0,26.2
+iShares,IWR,iShares Russell Mid-Cap ETF,4,Average,Silver,3.0,50.6,50.6,47.1,44.8,38.0,32.6
+SPDR,XLV,State Street® Health Care Select Sector SPDR® ETF,5,Below Average,Neutral,4.0,50.5,50.5,51.7,47.4,50.6,47.6
+SPDR,NANR,State Street® SPDR® S&P® North American Natural Resources ETF,4,Average,Neutral,2.0,50.4,50.4,50.4,50.4,50.4,51.2
+iShares,TLH,iShares 10-20 Year Treasury Bond ETF,4,Below Average,Bronze,3.0,50.2,50.2,60.6,62.1,70.7,52.6
+Dimensional,DFAE,Dimensional Emerging Core Equity Market ETF,4,Average,Silver,2.0,50.1,50.1,44.3,32.4,21.9,8.1
 SPDR,ONEV,State Street® SPDR® Russell 1000 Low Volatility Focus ETF,4,Low,Gold,4.0,50.0,50.0,50.0,50.0,50.0,50.0
-iShares,SIZE,iShares MSCI USA Size Factor ETF,4,Below Average,Gold,4.0,50.0,50.0,50.0,50.0,50.0,50.0
 DWS,QARP,Xtrackers Russell 1000 US QARP ETF,4,Below Average,Gold,2.0,50.0,50.0,50.0,50.0,50.0,50.0
-iShares,BRLN,iShares Floating Rate Loan Active ETF,4,Below Average,Bronze,,50.0,50.0,50.0,50.0,50.0,50.0
+Goldman Sachs,GSID,Goldman Sachs MarketBeta International Equity ETF,4,Below Average,Bronze,3.0,50.0,50.0,50.0,50.0,50.0,50.0
 American Century,AVSE,Avantis Responsible Emerging Markets Equity ETF,4,Below Average,Neutral,4.0,50.0,50.0,50.0,50.0,50.0,50.0
+Franklin Templeton,UDIV,Franklin U.S. Core Dividend Tilt Index ETF,4,Below Average,Neutral,3.0,50.0,50.0,50.0,50.0,50.0,50.0
 Goldman Sachs,GUSA,Goldman Sachs MarketBeta U.S. 1000 Equity ETF,4,Average,Silver,3.0,50.0,50.0,50.0,50.0,50.0,50.0
 ProShares,SPXE,ProShares S&P 500® ex-Energy ETF,4,Average,Bronze,4.0,50.0,50.0,50.0,50.0,50.0,50.0
 VanEck,EINC,VanEck Energy Income ETF,4,Average,Neutral,3.0,50.0,50.0,50.0,50.0,50.0,50.0
-VanEck,MBBB,VanEck Moody's Analytics BBB Corporate Bond ETF,4,Average,Neutral,3.0,50.0,50.0,50.0,50.0,50.0,50.0
-Franklin Templeton,FTCA,Franklin California Municipal Income ETF,4,Average,Neutral,,50.0,50.0,50.0,50.0,50.0,50.0
+Northern Trust,ESGG,FlexShares STOXX Global ESG Select Index Fund,4,Average,Neutral,3.0,50.0,50.0,50.0,50.0,50.0,50.0
 Global X,XCLR,Global X S&P 500® Collar 95-110 ETF,4,Average,,3.0,50.0,50.0,50.0,50.0,50.0,50.0
-SPDR,NANR,State Street® SPDR® S&P® North American Natural Resources ETF,4,Average,Neutral,2.0,50.0,50.0,50.0,50.0,50.0,43.4
-iShares,IWR,iShares Russell Mid-Cap ETF,4,Average,Silver,3.0,49.9,49.9,53.4,45.0,48.4,68.9
-iShares,IWB,iShares Russell 1000 ETF,4,Average,Silver,3.0,49.8,49.8,49.8,47.6,44.6,54.4
-Xtrackers,DBEF,Xtrackers MSCI EAFE Hedged Equity ETF,5,Low,Bronze,3.0,49.7,49.7,47.8,48.8,51.9,56.2
-iShares,RING,iShares MSCI Global Gold Miners ETF,4,Average,Neutral,3.0,49.6,49.6,49.6,60.2,27.4,40.3
-SPDR,XLY,State Street® Consumer Discretionary Select Sector SPDR® ETF,4,Average,Bronze,3.0,49.4,49.4,59.8,53.9,60.9,68.5
-Vanguard,VCIT,Vanguard Intermediate-Term Corporate Bond Index Fund ETF Shares,4,Average,Gold,3.0,49.4,49.4,49.5,37.1,41.6,57.7
-Nuveen,NXP,Nuveen Select Tax-Free Income Portfolio,5,Low,,,49.3,49.3,49.3,49.3,49.3,21.0
-JPMorgan,BBIN,JPMorgan BetaBuilders International Equity ETF,4,Average,Bronze,3.0,49.2,49.2,49.2,49.2,49.2,69.1
-iShares,IGM,iShares Expanded Tech Sector ETF,4,Average,Bronze,3.0,48.9,48.9,49.8,42.3,43.5,37.0
-Vanguard,VOX,Vanguard Communication Services Index Fund ETF Shares,4,Average,Neutral,2.0,48.9,48.9,48.9,71.8,76.3,78.7
-iShares,EWH,iShares MSCI Hong Kong ETF,4,Below Average,Neutral,5.0,48.8,48.8,50.9,46.5,55.6,63.1
-Schwab,SCHR,Schwab Intermediate-Term U.S. Treasury ETF™,4,Below Average,Silver,3.0,48.8,48.8,48.8,54.4,57.6,45.1
-iShares,IVV,iShares Core S&P 500 ETF,4,Average,Gold,3.0,48.7,48.7,50.9,46.6,49.0,77.8
-Invesco,DJD,Invesco Dow Jones Industrial Average Dividend ETF,4,Average,Bronze,2.0,48.6,48.6,48.6,48.6,41.0,67.0
-iShares,TLTW,iShares 20+ Year Treasury Bond Buywrite Strategy ETF,4,Average,Gold,5.0,48.5,48.5,54.3,40.6,34.8,62.0
-Vanguard,VYM,Vanguard High Dividend Yield Index Fund ETF Shares,4,Below Average,Gold,2.0,48.2,48.2,52.7,38.4,55.2,53.8
-Schwab,FNDX,Schwab Fundamental U.S. Large Company ETF,5,Average,Silver,3.0,48.1,48.1,49.4,43.7,43.7,50.3
-Pacer,COWZ,Pacer US Cash Cows 100 ETF,4,Average,Bronze,3.0,48.0,48.0,56.4,50.7,62.5,37.6
-Vanguard,VOO,Vanguard S&P 500 ETF,4,Average,Gold,3.0,47.8,47.8,50.8,39.2,41.1,81.8
-iShares,IUSV,iShares Core S&P U.S. Value ETF,4,Average,Silver,4.0,47.7,47.7,47.7,46.4,51.6,72.9
-Xtrackers,SHYL,Xtrackers Short Duration High Yield Bond ETF,4,Below Average,Gold,2.0,47.6,47.6,47.6,47.6,47.6,50.5
-iShares,TLH,iShares 10-20 Year Treasury Bond ETF,4,Below Average,Bronze,3.0,47.3,47.3,52.0,46.2,60.5,52.0
-WisdomTree,GCC,WisdomTree Enhanced Commodity Strategy Fund,4,Below Average,Bronze,,47.3,47.3,47.3,47.3,47.3,5.5
-iShares,IVW,iShares S&P 500 Growth ETF,4,Average,Silver,3.0,47.1,47.1,48.8,44.6,44.8,71.9
-Morgan Stanley,EVN,Eaton Vance Municipal Income Trust,4,Below Average,,,47.1,47.1,47.1,47.1,47.1,67.4
-JPMorgan,JFLX,JPMorgan Flexible Debt ETF,4,Below Average,Silver,2.0,47.1,47.1,47.1,47.1,41.8,24.4
-Vanguard,VGT,Vanguard Information Technology Index Fund ETF Shares,4,Average,Bronze,4.0,47.1,47.1,47.1,41.5,51.0,69.8
-WisdomTree,DGRW,WisdomTree U.S. Quality Dividend Growth Fund,4,Low,Bronze,2.0,47.0,47.0,47.9,46.1,50.4,70.1
-Global X,XYLG,Global X S&P 500® Covered Call & Growth ETF,4,Average,Neutral,3.0,47.0,47.0,47.0,47.0,47.0,31.0
-VanEck,CLOI,VanEck CLO ETF,4,Below Average,,,46.9,46.9,46.9,49.3,26.0,45.1
-Vanguard,VOT,Vanguard Mid-Cap Growth Index Fund ETF Shares,4,Average,Silver,4.0,46.8,46.8,46.8,39.5,32.2,67.9
-WisdomTree,OPPE,WisdomTree European Opportunities Fund,5,Below Average,Gold,3.0,46.7,46.7,46.7,46.7,72.8,83.3
-iShares,IMCG,iShares Morningstar Mid-Cap Growth ETF,4,Below Average,Silver,4.0,46.7,46.7,46.7,46.7,68.0,43.6
-iShares,IXC,iShares Global Energy ETF,4,Below Average,Bronze,2.0,46.7,46.7,46.7,42.4,52.3,100.0
-Vanguard,VUG,Vanguard Growth Index Fund ETF Shares,4,Average,Gold,3.0,46.6,46.6,48.1,49.5,59.7,87.5
-WisdomTree,DTD,WisdomTree U.S. Total Dividend Fund,4,Below Average,Gold,3.0,46.5,46.5,46.5,46.5,46.5,49.7
-Vanguard,VONG,Vanguard Russell 1000 Growth Index Fund ETF Shares,4,Average,Gold,3.0,46.3,46.3,52.2,60.2,62.0,87.1
-Vanguard,VV,Vanguard Large-Cap Index Fund ETF Shares,4,Average,Gold,3.0,46.3,46.3,49.9,47.5,55.7,82.4
-VanEck,HYEM,VanEck Emerging Markets High Yield Bond ETF,4,Below Average,Bronze,2.0,46.2,46.2,46.2,46.2,56.9,75.2
-iShares,SLQD,iShares 0-5 Year Investment Grade Corporate Bond ETF,4,Average,Silver,3.0,46.1,46.1,46.1,46.1,53.4,64.2
-Vanguard,VBR,Vanguard Small-Cap Value Index Fund ETF Shares,4,Below Average,Gold,5.0,46.1,46.1,46.1,42.4,40.6,55.8
-Invesco,IMVP,Invesco India ETF,4,Below Average,Neutral,3.0,46.0,46.0,46.0,46.0,46.0,51.7
-iShares,IYW,iShares U.S. Technology ETF,5,Average,Bronze,4.0,45.9,45.9,46.1,42.9,47.4,58.2
-Schwab,SCHG,Schwab U.S. Large-Cap Growth ETF™,4,Average,Silver,3.0,45.7,45.7,47.3,47.1,52.4,55.4
-iShares,ILCG,iShares Morningstar Growth ETF,4,Average,Gold,3.0,45.7,45.7,45.7,45.7,41.4,16.7
-iShares,IUSG,iShares Core S&P U.S. Growth ETF,4,Below Average,Silver,3.0,45.5,45.5,46.2,34.7,42.6,86.5
-iShares,IAK,iShares U.S. Insurance ETF,4,Below Average,Neutral,3.0,45.5,45.5,45.5,45.5,47.9,58.8
-BlackRock,FHLC,Fidelity MSCI Health Care Index ETF,4,Below Average,Bronze,3.0,45.4,45.4,45.4,56.7,43.3,49.2
-SPDR,XLRE,State Street Real Estate Select Sector SPDR ETF,4,Average,Bronze,3.0,45.3,45.3,49.6,49.6,41.9,70.0
-SPDR,GII,State Street® SPDR® S&P® Global Infrastructure ETF,4,Average,Neutral,4.0,45.3,45.3,45.3,45.3,45.3,43.9
-SPDR,SPGM,State Street® SPDR® Portfolio MSCI Global Stock Market ETF,4,Average,Silver,2.0,45.1,45.1,45.1,45.1,40.6,82.7
-iShares,IWY,iShares Russell Top 200 Growth ETF,5,Average,Silver,4.0,44.9,44.9,46.9,43.0,49.4,72.7
-Invesco,PHO,Invesco Water Resources ETF,4,Below Average,Neutral,2.0,44.8,44.8,44.8,44.8,48.2,36.9
-First Trust,FPEI,First Trust Institutional Preferred Securities and Income ETF,5,Below Average,Neutral,3.0,44.7,44.7,44.7,45.0,45.2,32.5
-SPDR,CWI,State Street® SPDR® MSCI ACWI ex-US ETF,4,Below Average,Bronze,2.0,44.6,44.6,44.6,46.3,23.1,19.2
-SPDR,XLF,State Street® Financial Select Sector SPDR® ETF,4,Below Average,Neutral,3.0,44.5,44.5,48.7,46.7,54.9,66.1
-PIMCO,SMMU,PIMCO Short Term Municipal Bond Active Exchange-Traded Fund,4,Average,Bronze,,44.5,44.5,44.5,44.5,44.5,55.0
-SPDR,XLE,State Street® Energy Select Sector SPDR® ETF,4,Average,Bronze,2.0,44.4,44.4,44.9,42.5,52.4,53.1
-iShares,IHE,iShares U.S. Pharmaceuticals ETF,4,Average,Neutral,2.0,44.4,44.4,44.4,44.4,41.6,50.1
-iShares,IXP,iShares Global Comm Services ETF,4,Below Average,Neutral,2.0,44.0,44.0,44.0,44.0,44.3,44.6
-Nuveen,NUV,Nuveen Municipal Value Fund,4,Low,,,43.5,43.5,43.5,43.5,48.1,15.9
-Janus Henderson,JSMD,Janus Henderson Small/Mid Cap Growth Alpha ETF,4,Average,Bronze,4.0,43.5,43.5,43.5,43.5,41.5,64.0
-Vanguard,MGV,Vanguard Mega Cap Value Index Fund ETF Shares,5,Below Average,Silver,3.0,43.4,43.4,43.4,51.4,44.4,33.4
-Morgan Stanley,EXG,Eaton Vance Tax-Managed Global Diversified Equity Income Fund,4,Average,,4.0,43.4,43.4,43.4,48.8,32.2,26.6
-Vanguard,VOE,Vanguard Mid-Cap Value Index Fund ETF Shares,4,Average,Gold,4.0,43.3,43.3,43.3,44.6,39.0,60.3
-JPMorgan,JEPQ,JPMorgan Nasdaq Equity Premium Income ETF,5,Average,Bronze,4.0,43.2,43.2,50.7,49.2,47.6,36.2
-iShares,IMTM,iShares MSCI Intl Momentum Factor ETF,5,Average,Silver,3.0,42.9,42.9,42.1,59.0,74.5,88.3
-PIMCO,PCN,PIMCO Corporate & Income Strategy Fund,4,Average,,,42.7,42.7,42.7,55.9,58.2,39.0
-Amplify,BLOK,Amplify Blockchain Technology ETF,5,Low,,2.0,42.3,42.3,42.3,45.8,44.1,75.2
-JPMorgan,JPIB,JPMorgan International Bond Opportunities ETF,5,Average,Silver,3.0,42.3,42.3,42.3,42.3,61.9,46.7
-SPDR,SPEU,State Street® SPDR® Portfolio Europe ETF,4,Below Average,Bronze,2.0,42.1,42.1,42.1,42.1,43.9,56.0
-SPDR,DGT,State Street® SPDR® Global Dow ETF,5,Average,Neutral,2.0,41.9,41.9,41.9,41.9,41.9,41.9
-JPMorgan,JMST,JPMorgan Ultra-Short Municipal Income ETF,4,Below Average,Silver,,41.9,41.9,41.9,35.6,56.9,78.8
-Goldman Sachs,GUSE,Goldman Sachs Enhanced U.S. Equity ETF,4,Average,Neutral,3.0,41.8,41.8,41.8,41.8,41.8,41.8
-BlackRock,HYT,"BlackRock Corporate High Yield Fund, Inc",4,Average,,,41.7,41.7,41.7,20.0,15.8,98.0
-Invesco,VRP,Invesco Variable Rate Preferred ETF,5,Below Average,Bronze,2.0,41.5,41.5,41.5,42.1,18.7,11.3
-Morgan Stanley,EFR,Eaton Vance Senior Floating-Rate Trust,4,Average,,,41.3,41.3,41.3,16.9,7.4,53.3
-Morgan Stanley,ETV,Eaton Vance Tax-Managed Buy-Write Opportunities Fund,4,Below Average,,4.0,41.1,41.1,41.1,41.1,67.2,91.0
-Franklin Templeton,FLEU,Franklin FTSE Eurozone ETF,4,Below Average,Neutral,3.0,41.1,41.1,41.1,41.1,41.1,58.3
-Dimensional,JHMM,John Hancock Multifactor Mid Cap ETF,4,Average,Bronze,3.0,40.9,40.9,40.9,51.9,34.4,65.9
-T. Rowe Price,TFLR,T. Rowe Price Floating Rate ETF,4,Below Average,Gold,,40.6,40.6,40.6,40.6,41.1,32.4
-First Trust,FPE,First Trust Preferred Securities and Income ETF,4,Average,Neutral,3.0,40.1,40.1,51.5,44.9,68.3,38.7
-iShares,IYC,iShares US Consumer Discretionary ETF,4,Below Average,Silver,4.0,39.4,39.4,41.4,44.6,48.6,60.0
-First Trust,FTGC,First Trust Global Tactical Commodity Strategy Fund,4,Below Average,Neutral,,39.4,39.4,39.4,61.1,74.2,90.5
-iShares,EMGF,iShares Emerging Markets Equity Factor ETF,4,Below Average,Bronze,2.0,39.2,39.2,39.2,39.2,32.0,27.7
-Innovator,BITQ,Bitwise Crypto Industry Innovators ETF,4,Average,,2.0,39.2,39.2,39.2,39.2,28.8,74.5
-iShares,HEWJ,iShares Currency Hedged MSCI Japan ETF,4,Below Average,Neutral,3.0,38.5,38.5,38.5,38.5,39.6,16.2
-Franklin Templeton,FLQL,Franklin U.S. Large Cap Multifactor Index ETF,5,Below Average,Neutral,3.0,38.5,38.5,38.5,38.5,38.5,28.0
-Nuveen,NKX,Nuveen California AMT- Free Quality Municipal Income Fund,4,Average,,,38.4,38.4,38.4,38.4,45.2,7.7
-VanEck,PPH,VanEck Pharmaceutical ETF,4,Below Average,Neutral,4.0,38.4,38.4,38.4,35.9,57.6,94.6
-Vanguard,VB,Vanguard Small-Cap Index Fund ETF Shares,4,Average,Gold,4.0,38.1,38.1,42.8,34.5,38.1,38.6
-Vanguard,VOOG,Vanguard S&P 500 Growth Index Fund ETF Shares,4,Average,Gold,3.0,37.8,37.8,37.8,36.6,44.1,36.1
-iShares,IMCV,iShares Morningstar Mid-Cap Value ETF,4,Average,Bronze,3.0,37.7,37.7,37.7,37.7,37.7,70.5
-JPMorgan,JMEE,JPMorgan Small & Mid Cap Enhanced Equity ETF,4,Below Average,Bronze,4.0,37.4,37.4,37.4,37.4,37.4,48.9
-WisdomTree,EZM,WisdomTree U.S. MidCap Earnings Fund,4,Average,Gold,4.0,37.3,37.3,37.3,37.3,37.3,37.3
-PIMCO,PDI,PIMCO Dynamic Income Fund,4,Average,,,37.3,37.3,36.6,40.1,73.7,85.5
-Northern Trust,TDTF,FlexShares iBoxx 5-Year Target Duration TIPS Index Fund,4,Below Average,Gold,3.0,37.2,37.2,37.2,37.2,36.6,85.8
-Global X,EMBD,Global X Emerging Markets Bond ETF,4,Below Average,Neutral,4.0,37.0,37.0,37.0,37.0,37.0,0.0
-iShares,IXJ,iShares Global Healthcare ETF,4,Low,Bronze,4.0,36.6,36.6,36.6,49.0,52.8,66.1
-JPMorgan,JMUB,JPMorgan Municipal ETF,4,Average,Silver,,36.2,36.2,36.2,59.2,64.7,80.1
-WisdomTree,WTV,WisdomTree U.S. Value Fund,5,Average,Bronze,3.0,36.1,36.1,36.1,34.4,27.8,68.1
-Vanguard,VOOV,Vanguard S&P 500 Value Index Fund ETF Shares,4,Average,Gold,4.0,36.0,36.0,36.0,36.0,57.3,54.1
-Invesco,QQMG,Invesco ESG NASDAQ 100 ETF,4,Average,Silver,5.0,36.0,36.0,36.0,36.0,36.0,11.9
-iShares,IGEB,iShares Investment Grade Systematic Bond ETF,4,Average,Bronze,2.0,35.9,35.9,35.9,35.8,10.5,68.1
-Franklin Templeton,FLJH,Franklin FTSE Japan Hedged ETF,5,Low,Gold,3.0,35.8,35.8,35.8,35.8,35.8,39.2
-Janus Henderson,JBBB,Janus Henderson B-BBB CLO ETF,5,Average,,,35.8,35.8,35.8,35.8,26.1,57.8
-iShares,EWJV,iShares MSCI Japan Value ETF,4,Average,Gold,2.0,35.7,35.7,35.7,47.1,47.8,42.9
-Invesco,XMLV,Invesco S&P MidCap Low Volatility ETF,4,Low,Neutral,5.0,35.7,35.7,35.7,35.7,35.7,55.2
-SPDR,SPDW,State Street® SPDR® Portfolio Developed World ex-US ETF,4,Average,Silver,2.0,35.3,35.3,35.5,60.3,52.9,38.4
-JPMorgan,JEPI,JPMorgan Equity Premium Income ETF,4,Below Average,Silver,3.0,35.2,35.2,37.6,24.4,23.5,72.3
-Franklin Templeton,FLSP,Franklin Systematic Style Premia ETF,5,Average,,5.0,34.6,34.6,34.6,34.6,34.6,23.4
-Franklin Templeton,INCE,Franklin Income Equity Focus ETF,4,Below Average,Neutral,,34.1,34.1,34.1,34.1,34.1,34.1
-BlackRock,DSU,BlackRock Debt Strategies Fund Inc,5,Below Average,,,33.9,33.9,33.9,39.5,75.2,56.6
-First Trust,FTHI,First Trust BuyWrite Income ETF,4,Average,Neutral,3.0,33.9,33.9,33.9,28.5,43.2,82.3
-State Street,HEDG,Equable Shares Hedged Equity ETF,4,Below Average,,3.0,33.5,33.5,33.5,33.5,26.6,51.8
-ProShares,REGL,ProShares S&P MidCap 400 Dividend Aristocrats ETF,4,Low,Silver,3.0,32.7,32.7,32.7,32.7,50.4,60.6
-BlackRock,BGT,BlackRock Floating Rate Income Trust Fund,4,Below Average,,,32.7,32.7,32.7,32.7,48.2,38.9
-iShares,EMHY,iShares J.P. Morgan EM High Yield Bond ETF,4,Average,,2.0,32.0,32.0,32.0,32.4,77.9,90.4
-First Trust,FTA,First Trust Large Cap Value AlphaDEX® Fund,4,Average,Neutral,2.0,32.0,32.0,32.0,32.0,32.0,20.2
-Nuveen,NCA,Nuveen California Municipal Value Fund,4,Low,,,31.9,31.9,31.9,31.9,31.9,33.9
-Nuveen,JFR,Nuveen Floating Rate Income Fund,4,Average,,,31.7,31.7,31.7,22.1,28.4,0.0
-SPDR,QWLD,State Street® SPDR® MSCI World StrategicFactors ETF,4,Below Average,Silver,2.0,31.5,31.5,31.5,31.5,31.5,31.5
-BlackRock,BME,BlackRock Health Sciences Trust,4,Low,,4.0,31.3,31.3,31.3,31.3,31.3,20.2
-iShares,EUSA,iShares MSCI USA Equal Weighted ETF,4,Below Average,Bronze,4.0,30.4,30.4,30.4,30.4,30.4,73.3
-VanEck,CRAK,VanEck Oil Refiners ETF,4,Below Average,Bronze,2.0,30.2,30.2,30.2,30.2,45.9,78.4
-iShares,AOM,iShares Core 40/60 Moderate Allocation ETF,4,Average,Gold,3.0,30.0,30.0,30.0,30.0,35.3,33.6
-BlackRock,FCOM,Fidelity MSCI Communication Services Index ETF,4,Average,Neutral,2.0,29.7,29.7,29.7,42.7,43.6,69.2
-Innovator,SFLR,Innovator Equity Managed Floor ETF,5,Average,,3.0,29.7,29.7,29.7,29.7,18.4,15.4
-Franklin Templeton,PMM,Putnam Managed Municipal Income Trust,4,Average,,,29.5,29.5,29.5,29.5,29.5,22.9
-First Trust,FAD,First Trust Multi Cap Growth AlphaDEX® Fund,5,Average,Bronze,2.0,29.4,29.4,29.4,29.4,29.4,29.4
-Franklin Templeton,FLHY,Franklin High Yield Corporate ETF,4,Average,Bronze,,28.8,28.8,28.8,28.8,21.2,85.4
-Invesco,CGW,Invesco S&P Global Water Index ETF,4,Low,Silver,2.0,28.3,28.3,28.3,28.3,23.3,16.7
-Invesco,RSPN,Invesco S&P 500® Equal Weight Industrials ETF,4,Below Average,Gold,3.0,27.9,27.9,27.9,27.9,37.3,4.9
-WisdomTree,DLN,WisdomTree U.S. LargeCap Dividend Fund,5,Below Average,Silver,3.0,27.8,27.8,27.8,30.7,43.5,47.5
-iShares,INMU,iShares Intermediate Muni Income Active ETF,4,Below Average,Bronze,,27.5,27.5,27.5,27.5,27.5,41.2
-Vanguard,VCR,Vanguard Consumer Discretionary Index Fund ETF Shares,4,Average,Gold,3.0,27.0,27.0,27.0,27.0,26.5,35.4
-Invesco,VVR,Invesco Senior Income Trust,4,Below Average,,,26.8,26.8,26.8,36.5,48.4,77.4
-Morgan Stanley,EVSM,Eaton Vance Short Duration Municipal Income ETF,5,Below Average,Neutral,,26.7,26.7,26.7,26.7,26.7,37.4
-Franklin Templeton,FLAX,Franklin FTSE Asia ex Japan ETF,4,Below Average,Bronze,2.0,25.1,25.1,25.1,25.1,25.1,48.0
-Northern Trust,QDF,FlexShares Quality Dividend Index Fund,4,Average,Neutral,5.0,24.9,24.9,24.9,24.9,24.9,24.9
-BlackRock,MUA,BlackRock MuniAssets Fund,4,Average,,,24.6,24.6,24.6,24.6,40.5,0.0
-iShares,HSCZ,iShares Currency Hedged MSCI EAFE Small-Cap ETF,5,Low,Bronze,3.0,22.7,22.7,22.7,22.7,22.7,9.9
-Invesco,XMVM,Invesco S&P MidCap Value with Momentum ETF,5,Average,Silver,4.0,22.5,22.5,22.5,22.5,23.7,21.5
-Xtrackers,HAUZ,Xtrackers International Real Estate ETF,4,Average,Gold,2.0,22.4,22.4,22.4,22.4,22.4,11.3
-Simplify,PINK,Simplify Health Care ETF,4,Average,Neutral,3.0,22.3,22.3,22.3,22.6,15.7,2.9
-iShares,ILCV,iShares Morningstar Value ETF,4,Below Average,Gold,3.0,21.9,21.9,21.9,21.9,21.9,56.4
-First Trust,LALT,First Trust Multi-Strategy Alternative ETF,4,Average,,4.0,20.3,20.3,20.3,20.3,20.3,20.3
-Invesco,RWL,Invesco S&P 500 Revenue ETF,5,Average,Silver,3.0,19.1,19.1,19.1,10.7,6.7,24.3
-Xtrackers,EMCR,Xtrackers Emerging Markets Carbon Reduction and Climate Improvers ETF,4,Average,Bronze,3.0,18.1,18.1,18.1,18.1,18.1,18.1
-First Trust,WCMI,First Trust WCM International Equity ETF,4,Below Average,Neutral,3.0,16.0,16.0,16.0,16.0,28.8,25.3
-First Trust,FIW,First Trust Water ETF,4,Below Average,Neutral,5.0,15.8,15.8,15.8,15.8,49.8,28.2
-iShares,SMMV,iShares MSCI USA Small-Cap Min Vol Factor ETF,4,Low,Silver,4.0,15.7,15.7,15.7,15.7,15.7,22.3
-Northern Trust,GQRE,FlexShares Global Quality Real Estate Index Fund,4,Average,Silver,2.0,15.1,15.1,15.1,15.1,15.1,14.9
-Franklin Templeton,FTNJ,Franklin New Jersey Municipal Income ETF,4,Average,Neutral,,14.7,14.7,14.7,14.7,14.7,42.8
-Simplify,HEQT,Simplify Hedged Equity ETF,4,Below Average,,3.0,13.3,13.3,13.3,13.3,13.3,5.0
-First Trust,FRI,First Trust S&P REIT Index Fund,4,Average,Neutral,3.0,11.0,11.0,11.0,11.0,11.0,11.0
-Morgan Stanley,XAGG,Eaton Vance Income Opportunities ETF,4,Below Average,Neutral,,10.7,10.7,10.7,19.6,11.4,43.0
-Invesco,IDHQ,Invesco S&P International Developed Quality ETF,4,Below Average,Silver,4.0,10.5,10.5,10.5,10.5,10.5,4.0
+iShares,EWT,iShares MSCI Taiwan ETF,5,Low,Neutral,5.0,50.0,50.0,40.5,41.3,55.1,52.1
+Invesco,PFM,Invesco Dividend Achievers™ ETF,4,Low,Bronze,4.0,49.8,49.8,49.8,49.8,49.8,32.0
+iShares,ACWI,iShares MSCI ACWI ETF,4,Average,Bronze,2.0,49.8,49.8,48.7,45.9,52.6,58.3
+iShares,HEFA,iShares Currency Hedged MSCI EAFE ETF,5,Low,Bronze,3.0,49.8,49.8,39.4,44.3,23.8,48.9
+Invesco,DJD,Invesco Dow Jones Industrial Average Dividend ETF,4,Average,Bronze,2.0,49.7,49.7,49.7,45.1,38.4,51.8
+iShares,IVV,iShares Core S&P 500 ETF,4,Average,Gold,3.0,49.6,49.6,48.0,51.5,52.6,48.1
+Invesco,PRF,Invesco RAFI US 1000 ETF,4,Average,Silver,3.0,49.6,49.6,41.2,44.9,37.3,12.8
+Vanguard,VYM,Vanguard High Dividend Yield Index Fund ETF Shares,4,Below Average,Gold,2.0,49.3,49.3,45.5,53.6,56.8,53.1
+Vanguard,VT,Vanguard Total World Stock Index Fund ETF Shares,4,Average,Gold,2.0,49.3,49.3,37.6,41.8,44.8,45.1
+iShares,TLTW,iShares 20+ Year Treasury Bond Buywrite Strategy ETF,4,Average,Gold,5.0,49.2,49.2,52.0,54.3,60.0,58.8
+JPMorgan,JPIB,JPMorgan International Bond Opportunities ETF,5,Average,Silver,3.0,49.2,49.2,49.2,67.4,65.2,43.7
+SPDR,SPTM,State Street® SPDR® Portfolio S&P 1500 Composite Stock Market ETF,4,Average,Gold,3.0,49.2,49.2,39.9,35.9,29.2,5.5
+Vanguard,VOX,Vanguard Communication Services Index Fund ETF Shares,4,Average,Neutral,2.0,48.9,48.9,53.3,61.3,43.6,31.1
+SPDR,XLY,State Street® Consumer Discretionary Select Sector SPDR® ETF,4,Average,Bronze,3.0,48.8,48.8,49.8,46.6,51.2,40.7
+Franklin Templeton,FLAX,Franklin FTSE Asia ex Japan ETF,4,Below Average,Bronze,2.0,48.7,48.7,48.7,48.7,48.7,72.8
+iShares,EWH,iShares MSCI Hong Kong ETF,4,Below Average,Neutral,5.0,48.7,48.7,46.4,46.6,58.2,70.5
+American Century,AVEM,Avantis Emerging Markets Equity ETF,4,Average,Bronze,2.0,48.7,48.7,43.2,31.9,24.1,43.2
+iShares,IGM,iShares Expanded Tech Sector ETF,4,Average,Bronze,3.0,48.7,48.7,41.7,45.4,39.7,50.8
+iShares,IXC,iShares Global Energy ETF,4,Below Average,Bronze,2.0,48.6,48.6,59.4,64.5,60.1,62.8
+iShares,IUSV,iShares Core S&P U.S. Value ETF,4,Average,Silver,4.0,48.5,48.5,54.4,53.5,49.5,43.0
+SPDR,XLK,State Street® Technology Select Sector SPDR® ETF,4,Below Average,Bronze,5.0,48.5,48.5,40.5,36.7,40.7,10.3
+SPDR,SPY,State Street® SPDR® S&P 500® ETF Trust,4,Average,Silver,3.0,48.4,48.4,40.5,39.3,35.1,31.5
+JPMorgan,JFLX,JPMorgan Flexible Debt ETF,4,Below Average,Silver,2.0,48.3,48.3,48.3,58.4,41.0,67.1
+Invesco,XMLV,Invesco S&P MidCap Low Volatility ETF,4,Low,Neutral,5.0,48.3,48.3,48.3,48.3,48.3,67.4
+Vanguard,VCIT,Vanguard Intermediate-Term Corporate Bond Index Fund ETF Shares,4,Average,Gold,3.0,48.2,48.2,41.0,44.4,44.2,3.5
+WisdomTree,OPPE,WisdomTree European Opportunities Fund,5,Below Average,Gold,3.0,48.0,48.0,48.0,50.5,73.1,68.1
+SPDR,SPSB,State Street® SPDR® Portfolio Short Term Corporate Bond ETF,4,Below Average,Gold,3.0,48.0,48.0,44.1,44.8,12.9,3.0
+JPMorgan,JQUA,JPMorgan U.S. Quality Factor ETF,4,Below Average,Gold,4.0,48.0,48.0,42.4,39.1,43.3,22.9
+Nuveen,NNY,Nuveen New York Municipal Value Fund,5,Low,,,47.9,47.9,47.9,47.9,47.9,47.9
+SPDR,SPYG,State Street® SPDR® Portfolio S&P 500 Growth ETF,4,Average,Silver,3.0,47.9,47.9,42.5,37.4,49.1,42.6
+Pacer,COWZ,Pacer US Cash Cows 100 ETF,4,Average,Bronze,3.0,47.8,47.8,47.4,45.8,44.2,52.8
+iShares,IMTM,iShares MSCI Intl Momentum Factor ETF,5,Average,Silver,3.0,47.7,47.7,61.9,75.6,63.1,84.7
+Schwab,SCHR,Schwab Intermediate-Term U.S. Treasury ETF™,4,Below Average,Silver,3.0,47.6,47.6,48.8,44.4,70.4,43.1
+Vanguard,IVOG,Vanguard S&P Mid-Cap 400 Growth Index Fund ETF Shares,4,Average,Silver,2.0,47.6,47.6,47.6,47.6,47.6,26.0
+Schwab,FNDX,Schwab Fundamental U.S. Large Company ETF,5,Average,Silver,3.0,47.5,47.5,41.6,44.1,41.7,36.0
+Vanguard,VONG,Vanguard Russell 1000 Growth Index Fund ETF Shares,4,Average,Gold,3.0,47.4,47.4,54.3,53.7,60.8,16.9
+SPDR,GII,State Street® SPDR® S&P® Global Infrastructure ETF,4,Average,Neutral,4.0,47.4,47.4,47.4,47.4,47.4,56.2
+Vanguard,VUG,Vanguard Growth Index Fund ETF Shares,4,Average,Gold,3.0,47.2,47.2,47.7,50.4,63.5,30.1
+T. Rowe Price,TBUX,T. Rowe Price Ultra Short-Term Bond ETF,4,Average,Neutral,3.0,47.2,47.2,47.2,45.5,33.8,53.0
+Morgan Stanley,MSSM,Morgan Stanley Pathway Small-Mid Cap Equity ETF,4,Below Average,Neutral,4.0,47.1,47.1,47.1,47.1,47.1,47.1
+Vanguard,MGV,Vanguard Mega Cap Value Index Fund ETF Shares,5,Below Average,Silver,3.0,47.0,47.0,47.0,51.4,66.0,84.6
+iShares,ISCF,iShares MSCI Intl Small-Cap Multifactor ETF,4,Average,Gold,3.0,47.0,47.0,47.0,47.0,47.2,25.8
+Amplify,BLOK,Amplify Blockchain Technology ETF,5,Low,,2.0,46.9,46.9,46.9,53.5,68.5,47.6
+iShares,IWF,iShares Russell 1000 Growth ETF,4,Average,Silver,3.0,46.8,46.8,38.1,34.3,32.8,38.9
+BlackRock,FHLC,Fidelity MSCI Health Care Index ETF,4,Below Average,Bronze,3.0,46.7,46.7,51.8,48.1,46.4,57.7
+iShares,IWB,iShares Russell 1000 ETF,4,Average,Silver,3.0,46.6,46.6,42.6,40.6,45.8,36.2
+SPDR,XLRE,State Street Real Estate Select Sector SPDR ETF,4,Average,Bronze,3.0,46.4,46.4,48.5,45.7,56.1,56.0
+iShares,IVW,iShares S&P 500 Growth ETF,4,Average,Silver,3.0,46.3,46.3,41.8,41.8,46.3,29.0
+iShares,IXP,iShares Global Comm Services ETF,4,Below Average,Neutral,2.0,46.2,46.2,46.2,46.2,42.8,81.3
+First Trust,FTLS,First Trust Long/Short Equity ETF,4,Below Average,Neutral,4.0,46.2,46.2,46.2,46.2,40.2,23.8
+WisdomTree,DGRW,WisdomTree U.S. Quality Dividend Growth Fund,4,Low,Bronze,2.0,46.1,46.1,49.5,45.6,49.0,18.6
+Vanguard,VV,Vanguard Large-Cap Index Fund ETF Shares,4,Average,Gold,3.0,45.9,45.9,45.4,49.0,47.2,46.8
+SPDR,SPGM,State Street® SPDR® Portfolio MSCI Global Stock Market ETF,4,Average,Silver,2.0,45.7,45.7,45.7,47.0,42.9,43.1
+iShares,ILCV,iShares Morningstar Value ETF,4,Below Average,Gold,3.0,45.7,45.7,45.7,45.7,48.1,88.2
+Northern Trust,TDTF,FlexShares iBoxx 5-Year Target Duration TIPS Index Fund,4,Below Average,Gold,3.0,45.5,45.5,45.5,45.5,52.7,90.9
+Invesco,GRPM,Invesco S&P MidCap 400® GARP ETF,4,Average,Silver,3.0,45.5,45.5,45.5,45.5,45.5,37.6
+Vanguard,VGT,Vanguard Information Technology Index Fund ETF Shares,4,Average,Bronze,4.0,45.5,45.5,44.6,44.7,36.9,22.1
+PIMCO,PDO,PIMCO Dynamic Income Opportunities Fund,4,Average,,,45.4,45.4,37.5,31.0,17.2,9.9
+SPDR,XLE,State Street® Energy Select Sector SPDR® ETF,4,Average,Bronze,2.0,45.2,45.2,46.5,47.3,51.2,23.7
+Vanguard,VBR,Vanguard Small-Cap Value Index Fund ETF Shares,4,Below Average,Gold,5.0,45.1,45.1,46.5,41.4,43.1,41.9
+iShares,GARP,iShares MSCI USA Quality GARP ETF,5,Average,Gold,3.0,45.0,45.0,45.0,36.2,20.7,1.7
+iShares,IHE,iShares U.S. Pharmaceuticals ETF,4,Average,Neutral,2.0,44.9,44.9,44.9,44.9,54.2,79.4
+iShares,IAK,iShares U.S. Insurance ETF,4,Below Average,Neutral,3.0,44.9,44.9,44.9,44.9,51.0,42.1
+Invesco,PHO,Invesco Water Resources ETF,4,Below Average,Neutral,2.0,44.9,44.9,44.9,44.9,48.1,46.6
+JPMorgan,JMST,JPMorgan Ultra-Short Municipal Income ETF,4,Below Average,Silver,,44.6,44.6,44.6,55.5,65.9,49.1
+T. Rowe Price,TFLR,T. Rowe Price Floating Rate ETF,4,Below Average,Gold,,44.6,44.6,44.6,44.6,46.9,81.2
+Schwab,SCHG,Schwab U.S. Large-Cap Growth ETF™,4,Average,Silver,3.0,44.5,44.5,40.8,39.5,37.8,37.9
+ALPS,OUSM,ALPS O'Shares U.S. Small-Cap Quality Dividend ETF Shares,5,Low,Gold,5.0,44.3,44.3,44.3,44.3,46.2,19.3
+SPDR,MDYG,State Street® SPDR® S&P 400™ Mid Cap Growth ETF,4,Average,Silver,2.0,44.0,44.0,44.0,44.0,25.1,30.1
+iShares,IYW,iShares U.S. Technology ETF,5,Average,Bronze,4.0,44.0,44.0,38.9,36.3,49.1,34.9
+Vanguard,VOO,Vanguard S&P 500 ETF,4,Average,Gold,3.0,43.8,43.8,34.9,32.6,33.7,21.9
+PIMCO,PCN,PIMCO Corporate & Income Strategy Fund,4,Average,,,43.7,43.7,44.1,59.3,57.6,69.9
+iShares,RING,iShares MSCI Global Gold Miners ETF,4,Average,Neutral,3.0,43.7,43.7,43.7,28.2,25.0,91.5
+Morgan Stanley,EXG,Eaton Vance Tax-Managed Global Diversified Equity Income Fund,4,Average,,4.0,43.6,43.6,50.4,40.3,27.4,16.2
+Invesco,QQMG,Invesco ESG NASDAQ 100 ETF,4,Average,Silver,5.0,43.5,43.5,43.5,43.5,43.5,24.5
+Invesco,VRP,Invesco Variable Rate Preferred ETF,5,Below Average,Bronze,2.0,43.5,43.5,43.5,26.9,16.2,55.3
+JPMorgan,JEPQ,JPMorgan Nasdaq Equity Premium Income ETF,5,Average,Bronze,4.0,43.4,43.4,44.9,44.7,41.2,13.9
+SPDR,SPEU,State Street® SPDR® Portfolio Europe ETF,4,Below Average,Bronze,2.0,43.3,43.3,43.3,43.3,49.5,71.4
+Vanguard,VOE,Vanguard Mid-Cap Value Index Fund ETF Shares,4,Average,Gold,4.0,43.1,43.1,47.7,38.7,43.1,62.2
+SPDR,XLF,State Street® Financial Select Sector SPDR® ETF,4,Below Average,Neutral,3.0,43.1,43.1,39.9,35.9,33.8,25.2
+First Trust,FPE,First Trust Preferred Securities and Income ETF,4,Average,Neutral,3.0,43.0,43.0,47.9,48.1,27.5,33.0
+iShares,IWY,iShares Russell Top 200 Growth ETF,5,Average,Silver,4.0,42.7,42.7,39.5,39.5,20.9,27.3
+Pacer,FLRT,Pacer Aristotle Pacific Floating Rate High Income ETF,4,Below Average,Neutral,,42.6,42.6,42.6,42.6,40.6,14.1
+VanEck,CLOI,VanEck CLO ETF,4,Below Average,,,42.6,42.6,42.6,33.5,33.7,65.0
+Morgan Stanley,ETV,Eaton Vance Tax-Managed Buy-Write Opportunities Fund,4,Below Average,,4.0,42.4,42.4,42.4,46.9,56.6,66.1
+Vanguard,VOT,Vanguard Mid-Cap Growth Index Fund ETF Shares,4,Average,Silver,4.0,42.4,42.4,39.2,37.9,35.0,8.3
+JPMorgan,BBIN,JPMorgan BetaBuilders International Equity ETF,4,Average,Bronze,3.0,42.3,42.3,42.3,42.3,33.1,22.6
+Innovator,BITQ,Bitwise Crypto Industry Innovators ETF,4,Average,,2.0,42.2,42.2,42.2,42.3,64.0,34.3
+First Trust,FPEI,First Trust Institutional Preferred Securities and Income ETF,5,Below Average,Neutral,3.0,42.0,42.0,42.0,38.5,21.0,0.0
+Dimensional,JHMM,John Hancock Multifactor Mid Cap ETF,4,Average,Bronze,3.0,42.0,42.0,42.0,38.3,46.9,32.8
+iShares,HEWJ,iShares Currency Hedged MSCI Japan ETF,4,Below Average,Neutral,3.0,41.8,41.8,41.8,41.8,35.3,42.0
+Franklin Templeton,FLEU,Franklin FTSE Eurozone ETF,4,Below Average,Neutral,3.0,41.7,41.7,41.7,41.7,41.7,59.0
+Morgan Stanley,EVMO,Eaton Vance Mortgage Opportunities ETF,4,Average,,,41.6,41.6,41.6,41.6,41.6,17.2
+iShares,IUSG,iShares Core S&P U.S. Growth ETF,4,Below Average,Silver,3.0,41.5,41.5,34.6,33.1,32.3,26.9
+VanEck,PPH,VanEck Pharmaceutical ETF,4,Below Average,Neutral,4.0,41.4,41.4,41.4,49.6,47.3,65.4
+BlackRock,HYT,"BlackRock Corporate High Yield Fund, Inc",4,Average,,,41.0,41.0,36.2,20.6,34.8,3.6
+Nuveen,NXP,Nuveen Select Tax-Free Income Portfolio,5,Low,,,40.9,40.9,40.9,40.9,30.0,0.0
+T. Rowe Price,TSPA,T. Rowe Price US Equity Research ETF,5,Average,Silver,3.0,40.8,40.8,40.8,39.5,35.6,30.7
+BlackRock,BME,BlackRock Health Sciences Trust,4,Low,,4.0,40.1,40.1,40.1,40.1,40.1,65.7
+iShares,IMCG,iShares Morningstar Mid-Cap Growth ETF,4,Below Average,Silver,4.0,40.0,40.0,40.0,46.9,37.4,6.2
+Morgan Stanley,EFR,Eaton Vance Senior Floating-Rate Trust,4,Average,,,40.0,40.0,40.0,18.4,17.3,10.0
+iShares,EMGF,iShares Emerging Markets Equity Factor ETF,4,Below Average,Bronze,2.0,39.7,39.7,39.7,32.6,40.0,53.3
+Vanguard,VB,Vanguard Small-Cap Index Fund ETF Shares,4,Average,Gold,4.0,39.6,39.6,37.4,38.7,53.2,56.4
+Janus Henderson,JSMD,Janus Henderson Small/Mid Cap Growth Alpha ETF,4,Average,Bronze,4.0,39.4,39.4,39.4,39.4,42.8,34.9
+iShares,IYC,iShares US Consumer Discretionary ETF,4,Below Average,Silver,4.0,39.3,39.3,45.9,43.3,36.0,34.0
+Franklin Templeton,FLSP,Franklin Systematic Style Premia ETF,5,Average,,5.0,39.3,39.3,39.3,39.3,39.3,29.3
+Janus Henderson,JBBB,Janus Henderson B-BBB CLO ETF,5,Average,,,39.0,39.0,41.2,37.9,52.2,88.8
+iShares,AOM,iShares Core 40/60 Moderate Allocation ETF,4,Average,Gold,3.0,39.0,39.0,39.0,47.6,40.0,79.8
+SPDR,SPIB,State Street® SPDR® Portfolio Intermediate Term Corporate Bond ETF,4,Low,Silver,3.0,38.9,38.9,38.0,12.0,40.3,19.7
+SPDR,CWI,State Street® SPDR® MSCI ACWI ex-US ETF,4,Below Average,Bronze,2.0,38.5,38.5,38.5,26.1,26.4,36.5
+Morgan Stanley,EVN,Eaton Vance Municipal Income Trust,4,Below Average,,,38.0,38.0,38.0,38.0,38.0,30.6
+iShares,IGEB,iShares Investment Grade Systematic Bond ETF,4,Average,Bronze,2.0,37.7,37.7,37.7,38.1,53.9,54.2
+WisdomTree,WTV,WisdomTree U.S. Value Fund,5,Average,Bronze,3.0,37.3,37.3,43.0,36.7,46.8,69.4
+Innovator,SFLR,Innovator Equity Managed Floor ETF,5,Average,,3.0,37.2,37.2,37.2,35.7,38.7,49.0
+BlackRock,DSU,BlackRock Debt Strategies Fund Inc,5,Below Average,,,37.0,37.0,37.0,64.3,61.7,52.8
+iShares,EWJV,iShares MSCI Japan Value ETF,4,Average,Gold,2.0,37.0,37.0,37.0,44.8,29.2,10.7
+State Street,HEDG,Equable Shares Hedged Equity ETF,4,Below Average,,3.0,37.0,37.0,37.0,35.7,59.0,25.0
+JPMorgan,JEPI,JPMorgan Equity Premium Income ETF,4,Below Average,Silver,3.0,37.0,37.0,30.3,49.5,63.6,51.2
+iShares,EUSA,iShares MSCI USA Equal Weighted ETF,4,Below Average,Bronze,4.0,36.6,36.6,36.6,36.6,36.6,59.1
+Vanguard,VOOG,Vanguard S&P 500 Growth Index Fund ETF Shares,4,Average,Gold,3.0,36.5,36.5,38.2,34.9,29.8,20.9
+Vanguard,VOOV,Vanguard S&P 500 Value Index Fund ETF Shares,4,Average,Gold,4.0,36.3,36.3,36.3,47.5,45.8,28.4
+Northern Trust,QDF,FlexShares Quality Dividend Index Fund,4,Average,Neutral,5.0,36.3,36.3,36.3,36.3,36.3,31.3
+Franklin Templeton,FLJH,Franklin FTSE Japan Hedged ETF,5,Low,Gold,3.0,36.2,36.2,36.2,36.2,45.4,47.1
+First Trust,FTA,First Trust Large Cap Value AlphaDEX® Fund,4,Average,Neutral,2.0,35.4,35.4,35.4,35.4,35.4,25.9
+Morgan Stanley,EVSM,Eaton Vance Short Duration Municipal Income ETF,5,Below Average,Neutral,,35.0,35.0,35.0,35.0,34.9,86.2
+First Trust,FTHI,First Trust BuyWrite Income ETF,4,Average,Neutral,3.0,34.8,34.8,34.3,44.2,38.3,0.0
+ProShares,REGL,ProShares S&P MidCap 400 Dividend Aristocrats ETF,4,Low,Silver,3.0,34.7,34.7,34.7,34.7,45.8,60.5
+JPMorgan,JMEE,JPMorgan Small & Mid Cap Enhanced Equity ETF,4,Below Average,Bronze,4.0,34.7,34.7,34.7,34.7,33.1,34.8
+BlackRock,BGT,BlackRock Floating Rate Income Trust Fund,4,Below Average,,,34.3,34.3,34.3,52.4,45.9,25.0
+Nuveen,NKX,Nuveen California AMT- Free Quality Municipal Income Fund,4,Average,,,34.1,34.1,34.1,34.1,37.5,24.1
+American Century,QGRO,American Century U.S. Quality Growth ETF,4,Average,Neutral,3.0,33.8,33.8,33.8,33.8,14.1,20.6
+PIMCO,PDI,PIMCO Dynamic Income Fund,4,Average,,,32.9,32.9,27.7,27.9,34.6,29.1
+VanEck,CRAK,VanEck Oil Refiners ETF,4,Below Average,Bronze,2.0,32.6,32.6,32.6,32.6,47.4,53.5
+BlackRock,FCOM,Fidelity MSCI Communication Services Index ETF,4,Average,Neutral,2.0,32.2,32.2,38.2,38.5,45.9,22.1
+Invesco,CGW,Invesco S&P Global Water Index ETF,4,Low,Silver,2.0,31.6,31.6,31.6,31.6,19.0,62.5
+iShares,EMHY,iShares J.P. Morgan EM High Yield Bond ETF,4,Average,,2.0,31.5,31.5,31.5,84.6,66.2,67.0
+BlackRock,MIY,"BlackRock MuniYield Michigan Quality Fund, Inc.",4,Average,,,30.7,30.7,30.7,30.7,30.7,55.1
+Franklin Templeton,PMM,Putnam Managed Municipal Income Trust,4,Average,,,29.8,29.8,29.8,29.8,29.8,24.6
+Global X,EMBD,Global X Emerging Markets Bond ETF,4,Below Average,Neutral,4.0,28.8,28.8,28.8,28.8,28.8,27.0
+WisdomTree,DLN,WisdomTree U.S. LargeCap Dividend Fund,5,Below Average,Silver,3.0,28.7,28.7,28.7,37.6,32.7,50.7
+Invesco,RSPN,Invesco S&P 500® Equal Weight Industrials ETF,4,Below Average,Gold,3.0,28.7,28.7,28.7,28.7,24.4,47.9
+Vanguard,VCR,Vanguard Consumer Discretionary Index Fund ETF Shares,4,Average,Gold,3.0,28.6,28.6,28.6,31.2,36.2,26.2
+Nuveen,JFR,Nuveen Floating Rate Income Fund,4,Average,,,27.9,27.9,25.2,18.2,24.1,27.0
+Invesco,VVR,Invesco Senior Income Trust,4,Below Average,,,26.7,26.7,26.7,35.6,27.8,3.8
+Franklin Templeton,FLHY,Franklin High Yield Corporate ETF,4,Average,Bronze,,26.4,26.4,26.4,26.4,45.6,15.0
+iShares,SMMV,iShares MSCI USA Small-Cap Min Vol Factor ETF,4,Low,Silver,4.0,26.2,26.2,26.2,26.2,26.2,43.6
+Simplify,PINK,Simplify Health Care ETF,4,Average,Neutral,3.0,25.6,25.6,25.6,37.7,32.0,21.8
+First Trust,LALT,First Trust Multi-Strategy Alternative ETF,4,Average,,4.0,24.7,24.7,24.7,24.7,24.7,24.7
+Nuveen,NCA,Nuveen California Municipal Value Fund,4,Low,,,24.4,24.4,24.4,24.4,22.6,13.6
+BlackRock,MUA,BlackRock MuniAssets Fund,4,Average,,,23.2,23.2,23.2,23.2,34.9,5.4
+Xtrackers,HAUZ,Xtrackers International Real Estate ETF,4,Average,Gold,2.0,22.7,22.7,22.7,22.7,22.7,41.8
+iShares,HSCZ,iShares Currency Hedged MSCI EAFE Small-Cap ETF,5,Low,Bronze,3.0,22.7,22.7,22.7,22.7,22.7,9.7
+Invesco,RWL,Invesco S&P 500 Revenue ETF,5,Average,Silver,3.0,22.5,22.5,22.5,15.3,51.4,78.7
+Franklin Templeton,FTNJ,Franklin New Jersey Municipal Income ETF,4,Average,Neutral,,22.4,22.4,22.4,22.4,23.3,54.4
+Invesco,XMVM,Invesco S&P MidCap Value with Momentum ETF,5,Average,Silver,4.0,20.9,20.9,20.9,20.9,18.4,92.9
+Goldman Sachs,GUSE,Goldman Sachs Enhanced U.S. Equity ETF,4,Average,Neutral,3.0,20.6,20.6,20.6,20.6,20.6,20.6
+Simplify,HEQT,Simplify Hedged Equity ETF,4,Below Average,,3.0,20.0,20.0,20.0,20.0,20.0,14.5
+First Trust,WCMI,First Trust WCM International Equity ETF,4,Below Average,Neutral,3.0,18.8,18.8,18.8,45.4,60.0,52.8
+Xtrackers,EMCR,Xtrackers Emerging Markets Carbon Reduction and Climate Improvers ETF,4,Average,Bronze,3.0,17.5,17.5,17.5,17.5,17.5,17.5
+Northern Trust,GQRE,FlexShares Global Quality Real Estate Index Fund,4,Average,Silver,2.0,17.1,17.1,17.1,17.1,17.1,17.2
+First Trust,FIW,First Trust Water ETF,4,Below Average,Neutral,5.0,16.7,16.7,16.7,16.7,41.3,42.7
+Franklin Templeton,FLQL,Franklin U.S. Large Cap Multifactor Index ETF,5,Below Average,Neutral,3.0,14.3,14.3,14.3,14.3,14.3,4.9
+Morgan Stanley,XAGG,Eaton Vance Income Opportunities ETF,4,Below Average,Neutral,,12.4,12.4,12.4,16.7,36.5,36.8
+JPMorgan,JPRE,JPMorgan Realty Income ETF,4,Below Average,Gold,3.0,12.4,12.4,12.4,12.4,12.4,12.4
+Invesco,IDHQ,Invesco S&P International Developed Quality ETF,4,Below Average,Silver,4.0,10.9,10.9,10.9,10.9,10.6,29.2
+First Trust,FRI,First Trust S&P REIT Index Fund,4,Average,Neutral,3.0,10.8,10.8,10.8,10.8,10.8,10.8
 First Trust,FMNY,First Trust New York High Income Municipal ETF,4,Low,Neutral,,9.3,9.3,9.3,9.3,9.3,9.3
 Franklin Templeton,FTMS,Franklin Short-Term Municipal Income ETF,5,Average,Neutral,,9.2,9.2,9.2,9.2,9.2,9.2
-BlackRock,MIY,"BlackRock MuniYield Michigan Quality Fund, Inc.",4,Average,,,2.8,2.8,2.8,2.8,2.8,5.6
+VanEck,HYEM,VanEck Emerging Markets High Yield Bond ETF,4,Below Average,Bronze,2.0,8.9,8.9,8.9,8.9,8.5,0.1
+Franklin Templeton,FTCA,Franklin California Municipal Income ETF,4,Average,Neutral,,3.9,3.9,3.9,3.9,3.9,3.9
 Global X,BITS,Global X Blockchain & Bitcoin Strategy ETF,5,Below Average,,,0.0,0.0,0.0,0.0,0.0,0.0
 ProShares,SPXN,ProShares S&P 500® ex-Financials ETF,5,Average,Bronze,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+First Trust,MMSC,First Trust Multi-Manager Small Cap Opportunities ETF,5,Average,Neutral,2.0,0.0,0.0,0.0,0.0,0.0,0.0
 JPMorgan,JPME,JPMorgan Diversified Return U.S. Mid Cap Equity ETF,4,Below Average,Gold,3.0,0.0,0.0,0.0,0.0,0.0,0.0
-JPMorgan,JPRE,JPMorgan Realty Income ETF,4,Below Average,Gold,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+Xtrackers,SNPG,Xtrackers S&P 500 Growth Scored & Screened ETF,4,Below Average,Gold,3.0,0.0,0.0,0.0,0.0,0.0,0.0
 SPDR,SMLV,State Street® SPDR® US Small Cap Low Volatility Index ETF,4,Below Average,Neutral,2.0,0.0,0.0,0.0,0.0,0.0,0.0
 Invesco,IROC,Invesco Rochester High Yield Municipal ETF,4,Below Average,Neutral,,0.0,0.0,0.0,0.0,0.0,0.0
-Northern Trust,MBSD,FlexShares Disciplined Duration MBS Index Fund,4,Below Average,,5.0,0.0,0.0,0.0,0.0,0.0,0.0
-Morgan Stanley,CVSB,Calvert Ultra-Short Investment Grade ETF,4,Average,Neutral,3.0,0.0,0.0,0.0,0.0,0.0,0.0
